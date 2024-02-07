@@ -13,8 +13,8 @@ the index.qmd file will be the opening page <br>
 basic instructions: <br>
 clone SNAP-decisions  <br>
 clone SNAP-decisions-quarto  <br>
-git clone git clone https://github.com/vuw-snap/SNAP-decisions.git <br>
-git clone git clone https://github.com/vuw-snap/SNAP-decisions-quarto.git <br>
+git clone https://github.com/vuw-snap/SNAP-decisions.git <br>
+git clone https://github.com/vuw-snap/SNAP-decisions-quarto.git <br>
 alter the files in SNAP-decisions-quarto with your editor <br>
 from outside of your directory type  <br>
      quarto preview SNAP-decisions-quarto <br>
@@ -29,3 +29,4 @@ git init <br>
 git add --all <br>
 git commit -m "add multiple files" <br>
 git push https://github.com/vuw-snap/SNAP-decisions.git main <br>
+don't forget to repeat for SNAP-decisions-quarto files!<br>
