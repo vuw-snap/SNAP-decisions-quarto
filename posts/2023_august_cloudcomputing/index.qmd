@@ -1,0 +1,27 @@
+---
+title: "SNAP Chat cloud computing"
+subtitle: "SNAP Chat cloud computing"
+author: "Patricia Hunt"
+date: "29 08 2023"
+sidebar: false
+navbar:
+  background: light
+categories: 
+  - conference
+---
+<style>
+.quarto-title-block .quarto-title-banner {
+  background-image: url(images/small_logo.png);
+  border-bottom: solid 10px #FFFFFF;
+  margin-top: -40px;
+  color: white;
+}
+</style>
+
+![](talk_title.png){height=250 fig-align="center"}
+
+<h1>SNAP-chat Cloud computing and networking and discussion workshop</h1>
+
+“SNAP Chat”! An open invitation to SNAP members to a catered lunch-time seminar and chat.  Brendan Harding gave an excellent talk on Cloud Computing with live examples.  We also had plenty of time for networking and developing ideas for future activities.   This was also a time to reflect on the impact of the university restructuring, were we also identified ways the SNAP community over contribute.
+
+![](chat_gpt.png){height=350 fig-align="center"}

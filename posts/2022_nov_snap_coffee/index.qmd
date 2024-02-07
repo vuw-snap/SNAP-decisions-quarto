@@ -1,0 +1,51 @@
+---
+title: "SNAP Coffee November"
+subtitle: "SNAP Coffee: Join us to meet other SNAPites"
+author: "Patricia Hunt"
+date: "04 11 2022"
+sidebar: false
+navbar:
+  background: light
+categories: 
+  - social-event
+---
+<style>
+.quarto-title-block .quarto-title-banner {
+  background-image: url(images/small_logo.png);
+  border-bottom: solid 10px #FFFFFF;
+  margin-top: -40px;
+  color: white;
+}
+</style>
+
+![](thumbnail1.jpeg){width=500 fig-align="center"}
+
+<h1>SNAP's bimonthley coffee</h1>
+
+On 4th Nov we had our 2nd coffee meeting, this is the first in person SNAP meeting since COVID restrictions were relaxed. We had a wonderful crowd arrive with 20 plus people from across the university. Do come to our next coffee meeting and chat science, humanities, health, linguistics and much more ... 
+
+Drop in to chat with other SNAP members and meet some of the SNAP champions who also form the SNAP planing committee.
+
+<ul>
+	<li>School Chemical and Physical Sciences: Yvette Perrott</li>
+
+	<li>Antarctic Research Centre: Liz Keller</li>
+
+	<li>Ferrier Research Institute: Wanting Jiao</li>
+
+	<li>School of Mathematics and Statistics: Brendan Harding</li>
+
+	<li>School of Linguistics and Applied Language Studies: Stephen Skalicky</li>
+
+	<li>School of Information Management and School of Business and Government: Markus Luczak-Roesch </li>
+
+	<li>School of Geography Environment and Earth Sciences, David O'Sullivan</li>
+
+	<li>School of Health, Anne Haase</li>
+
+	<li>Centre for Academic Development: Matt Plummer</li>
+
+	<li>all other areas: Patricia Hunt</li>
+</ul>
+
+![](snap_coffee1over.jpeg){height=250 fig-align="center"}

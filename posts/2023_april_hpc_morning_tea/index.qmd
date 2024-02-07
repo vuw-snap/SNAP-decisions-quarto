@@ -1,0 +1,47 @@
+---
+title: "HPC Morning Tea"
+subtitle: "Ask questions about the Rāpoi cluster or simply chat to the support staff from CAD’s Research Capability Team"
+author: "Konstantina Vasileva"
+date: "17 04 2023"
+sidebar: false
+navbar:
+  background: light
+categories: 
+  - raapoi-cluster
+---
+<style>
+.quarto-title-block .quarto-title-banner {
+  background-image: url(images/small_logo.png);
+  border-bottom: solid 10px #FFFFFF;
+  margin-top: -40px;
+  color: white;
+}
+</style>
+
+![](thumbnail1.jpg){height=300 fig-align="center"}
+
+>The HPC Morning Tea is the best way to ask your questions about the Rāpoi cluster or simply chat to the support staff from CAD’s Research Capability Team. A hot beverage, a snack and updates on high performance computing – what's not to like?
+
+HPC morning tea meetings happen several times a year with the intention to run at least once a trimester. In addition to socialising with other Rāpoi users (from those who are just starting to weathered HPC veterans), these meetings are an important way to stay have your input and learn from the team what are the steps to getting important jobs scheduled and prioritised, and how to negotiate more efficient student access if you intend to use Rāpoi for teaching.
+
+2022 Rāpoi Usage
+The April meeting started with a presentation of the 2022 Rāpoi Utilisation Report, featuring data on usage statistics for 2022, also providing a perspective on longer-term trends from 2019 till last year. 
+
+![](table1.png){width=500 fig-align="center"}
+
+The number of submitted jobs has increased massively in 2022 compared to previous years with over 65% of the job submissions occurring between October and December: something you might want to keep in mind when planning when to use Rāpoi for your own research!
+The biggest users in 2022 are ECS (more than 56% of the actual CPU hours used), SCPS (31%), followed by SBS (5%) with the rest of the schools and CPUs only using a small percentage of the actual CPU hours used. If these jobs had been done through external providers like NeSI or AWS, the cost to VUW would have been between 1.84 and 2.56 million NZD.
+  
+![](graph1.png)
+
+Results from the User Survey
+About 15% of the currently active Rāpoi users filled out the annual survey. The majority of them were PhD students or Postdocs, followed by Academic staff, with only a small portion of Research fellows and professional staff. 
+Onboarding has been a predominantly positive experience for everyone although the team takes into account the difficulties associated with delays in approving staff accounts and the barrier to access through VPN was a topic of discussion during the morning tea.
+Slack remains the preferred communication channel, but changes to its subscription model and cost create the need to come up with an alternative. HackMD and transferring Q&A and support advice from Slack to Wiki were discussed. A short training on how to organise and properly document support advice on the Wiki will be provided this year and the support team is open to suggestions for tools that can serve as a repository for the data that will no longer be held long-term by Slack.
+Currently the research output created with the help of Rāpoi is tracked through the survey and the Slack channel so the team strongly encourages this information to be added to your publications and Elements profiles. 
+Based on Slack and survey submissions, in 2022 Rāpoi was used for projects which resulted in over 20 journal articles and conference papers, published in journals with an average impact factor of 8.79. Output created and submitted for publication in 2022 but published in early 2023 included at least 6 papers in journals with average impact factor of 4.05.   
+
+![](quote1.png){width=500 fig-align="center"}
+
+
+

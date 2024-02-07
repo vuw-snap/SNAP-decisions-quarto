@@ -1,0 +1,32 @@
+---
+title: "Andre Geldenhuis leaving VUW"
+subtitle: "Andre Geldenhuis leaving VUW"
+author: "Patricia Hunt"
+date: "25 08 2023"
+sidebar: false
+navbar:
+  background: light
+categories: 
+  - conference
+---
+<style>
+.quarto-title-block .quarto-title-banner {
+  background-image: url(images/small_logo.png);
+  border-bottom: solid 10px #FFFFFF;
+  margin-top: -40px;
+  color: white;
+}
+</style>
+
+![](andre.geldenhuis.jpg){height=250 fig-align="center"}
+
+<h1>Sadly Andre Geldenhuis is leaving VUW</h1>
+
+It is with great sadness, and mild panic, we are saying good-bye to Andre Geldenhuis.  Andre has engaged strongly with academics at all levels providing a friendly, efficient, exceptionally capable service, as a Research Software engineer, administering and running our HPC. 
+
+Jonathan Flutey the Deputy Director of the Centre for Academic Development, says 
+
+"While it is sad to see Andre go, his support for research and direct relationship with researchers and PhD students has dramatically raised our capability in research computing over the last decade. He has been an amazing person to work with!"
+
+Andre's new post will be at the University of Auckland. We are incredibly sad to see him go.  
+

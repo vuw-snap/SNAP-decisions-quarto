@@ -1,0 +1,46 @@
+---
+title: "SNAP" 
+subtitle: "VUW-hub for Simmulation, Numerics, Analytics and Programming"
+page-layout: full
+title-block-banner: "#28553A"
+title-block-banner-color: white
+  
+format: 
+  html:
+    theme: spacelab
+    css: styles.css
+---
+
+::: {.row}
+::: {.grid}
+:::{.g-col-7}
+
+The 21st century has seen powerful advances in computer hardware and software leading to a rapid increase in the exploitation of computation within the natural sciences, social sciences, and engineering disciplines. 
+
+Significant advances have brought numerical modelling, data analysis and simulation disciplines to the forefront. There has  been a large ground swell in the use of programming and scripting across all disciplines. 
+
+The computational and data literacy skill sets required by modern academics and researchers across all disciplines have undergone a step change. 
+
+>Our focus is the many researchers who can benefit (or have the potential to benefit) from computational/numerical know-how and knowledge.
+
+SNAP has been set-up to connect, support and enable researchers across diverse disciplines, particularly those who have a primary research domain outside of computing.  
+
+>Our aim is to facilitate better research undertaken more productively, efficiently, and expansively. 
+
+:::
+::: {.g-col-5}
+
+![ ](images/snap_logo_large.png){fig-align="center" width="90%"}
+
+![ ](images/dimethoxy_imid_movie.gif){fig-align="center" width="90%"}
+
+![ ](images/snap_coffee_dec_2022.jpeg){fig-align="center" width="90%"}
+
+:::
+:::
+:::
+
+
+#### Check our blog for the latest activities.
+
+![ ](images/blog_april_2023.png){fig-align="left" width="60%"}

@@ -1,0 +1,58 @@
+project:
+  type: website
+  output-dir: /Users/tricia/Documents/GitHub_snap/SNAP-decisions
+
+website:
+  title: snap-decisions
+  back-to-top-navigation: true
+  page-footer: "© 2023 SNAP. Licensed under CC BY NC ND 4.0" 
+
+  navbar:
+    background: dark    
+    search: true
+    title: false
+    logo: "images/small_no_text.png" 
+    collapse: false
+    left:
+      - text: Home
+        file: index.qmd
+      - text: About us
+        file: about-us.qmd
+#      - file: events.qmd
+#      - file: code.qmd
+#      - file: courses.qmd
+#      - file: contacts.qmd
+      - file: blog.qmd
+    right:
+      - icon: github
+        href: https://github.com/
+
+  sidebar:
+      style: docked
+#      logo: "images/small_clear.png"
+      pinned: false  
+      collapse-level: 2 
+      border: false
+      alignment: left
+      background: light    
+      contents:
+        - text: Home
+          file: index.qmd
+        - text: About us
+          file: about-us.qmd
+#        - events.qmd
+#        - code.qmd
+#        - courses.qmd
+#        - contacts.qmd
+
+format:
+  html:
+    theme: spacelab
+    css: styles.css
+    grid:
+      sidebar-width: 150px
+      body-width: 1050px
+      margin-width: 300px
+      gutter-width: 1rem
+
+

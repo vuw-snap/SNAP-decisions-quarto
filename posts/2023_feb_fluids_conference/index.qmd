@@ -1,0 +1,31 @@
+---
+title: "Fluids in New Zealand (FiNZ) Workshop 2023"
+subtitle: "Fluids in New Zealand (FiNZ) Workshop 2023"
+author: "Brendan Harding"
+date: "15 02 2023"
+sidebar: false
+navbar:
+  background: light
+categories: 
+  - conference
+---
+<style>
+.quarto-title-block .quarto-title-banner {
+  background-image: url(images/small_logo.png);
+  border-bottom: solid 10px #FFFFFF;
+  margin-top: -40px;
+  color: white;
+}
+</style>
+
+![](fnz_bars.png){height=150 fig-align="center"}
+
+<h1>Fluids in New Zealand (FiNZ) Workshop 2023</h1>
+
+The 2023 Fluids in New Zealand (FiNZ) workshop was held at Victoria University of Wellington (Kelburn Campus) 15–17 February 2023.
+
+The workshop brought together New Zealand researchers interested in fluid mechanics to discuss their recent work in a friendly and collaborative setting. The workshop covered a broad range of topics, including experimental, numerical and theoretical work.  Participants included industry, academics, postgraduate students and scientists working in Crown Research Institutes. 
+
+SNAP-funded an award for the best student talk given by Oscar Punch (University of Canterbury), the runner-up was Kirill Misiiuk (University of Otago) and honourable mentions include Adam Cox (University of Canterbury) and Muizz Shah (University of Auckland)  Image (Left to right: Oscar Punch, Brendan Harding, Kirill Misiiuk) 
+
+![](fnz_prize.jpg){height=400 fig-align="center"}

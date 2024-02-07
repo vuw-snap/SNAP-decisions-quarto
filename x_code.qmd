@@ -1,0 +1,14 @@
+---
+title: "Code"
+image: /images/small_logo.png
+title-block-banner: "#27445C"
+format:
+  html:
+    embed-resources: true
+    smooth-scroll: true
+    theme: spacelab
+    fontcolor: black
+css: styles.css
+---
+
+code content    

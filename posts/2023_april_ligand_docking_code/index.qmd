@@ -1,0 +1,52 @@
+---
+title: "Molecular modelling"
+subtitle: "Introduction to Schrödinger Suite and Ligand Docking"
+author: "Wanting Jiao"
+date: "19 04 2023"
+sidebar: false
+navbar:
+  background: light
+categories: 
+  - raapoi-cluster
+---
+<style>
+.quarto-title-block .quarto-title-banner {
+  background-image: url(images/small_logo.png);
+  border-bottom: solid 10px #FFFFFF;
+  margin-top: -40px;
+  color: white;
+}
+</style>
+
+![](thumbnail1.png){height=250 fig-align="center"}
+
+<h1>SNAP’s workshop series – Introduction to the Schrödinger Suite and Ligand Docking</h1>
+
+"Molecular modelling techniques such as ligand docking are widely used for the study of protein–ligand interactions and for drug discovery and development. Docking can be used to predict binding conformations and compare binding affinities of small molecules to the target site."
+
+Victoria University of Wellington hosts a site license for the state-of-the-art  Schrödinger Suite, which contains molecular modelling software that could be used in both small molecule drug discovery and material science projects. 
+
+Schrödinger Suite uses advanced graphical user interface (GUI), Maestro, which not only acts as the contact point to all programs in the suite, but also is a powerful tool for visualizing and interacting with molecules and systems of interest.
+
+<img style="float: right; height: 280px;" src="schrodinger_workshop.jpeg">
+
+The workshop was aimed at interested staff and postgraduate students who would like to explore and employ ligand docking calculations in their research. 
+
+For this introductory hands-on workshop we focused on first getting acquainted with Maestro, and then conducting a couple of simple ligand docking calculations. The workshop consisted of the following sections:
+<ul>
+	<li>Getting started and familiar with Maestro, the GUI for Schrödinger Suite</li>
+	<li>Visualizing protein-ligand interactions</li>
+	<li>Preparing protein and ligand structures for docking calculations</li>
+	<li>Conducting ligand docking calculations and evaluating the results comparing different docking protocols.</li>
+</ul>
+
+![](ligand_in_pocket.png){width=600 fig-align="center"}
+
+On the day of the workshop, 19th April 2023, we had a total of 16 attendees (1 undergraduate student, 2 Masters students, 11 PhD candidates, and 2 postdoctoral fellows) from across the University, including people from the School of Biological Sciences, Ferrier Research Institute, and School of Chemical and Physical Sciences. The workshop ran from 9 am to 3:30 pm. Most attendees were able to follow the prepared instructions and complete all the tasks before the end of the workshop. With the training they’ve had, some attendees were able to discuss and start to work on their own projects during the last hours of the workshop. 
+
+The day was in a great success, with positive feedback from the attendees. We will be using this constructive suggestions to make further improvements for future workshops in this series. We hope to see you again next time!
+
+![](binding_site.png){width=500 fig-align="center"}
+
+
+

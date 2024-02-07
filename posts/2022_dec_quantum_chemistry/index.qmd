@@ -1,0 +1,45 @@
+---
+title: "Beginners Introduction to Computational Chemistry"
+subtitle: "Beginners Introduction to Computational Chemistry"
+author: "Patricia Hunt"
+date: "06 12 2022"
+sidebar: false
+navbar:
+  background: light
+categories: 
+  - raapoi-cluster
+---
+<style>
+.quarto-title-block .quarto-title-banner {
+  background-image: url(images/small_logo.png);
+  border-bottom: solid 10px #FFFFFF;
+  margin-top: -40px;
+  color: white;
+}
+</style>
+
+![](thumbnail1.png){height=200 fig-align="center"}
+
+<h1>An introduction to molecular computational chemistry</h1>
+
+A workshop suitable for those who had never used computational chemistry before as well as those who were beginners and wanted to advance their skills. People could find out how computational chemistry could be used within their research project. 
+
+>"Really enjoyed learning about how computational chemistry could benefit my own research (many things I didn't realise were possible) as well as getting hands on with the software itself."
+
+<img style="float: right; height: 300px;" src="vlab_wiki_mos.png"> 
+
+We used the quantum chemistry code Gaussian/GaussView suite of programs for which the University has a site license.
+
+The workshop was highly interactive and hands-on. First we optimised the structure of ammonia, a small but very important molecule.  We then interpreted the information from the calculation such as bond distances, partial charges on atoms and visualised the molecular orbitals.  Participants even made an animation of one of the vibrations of the molecule, called the umbrella vibration.
+
+![](ammonia_umbrella.gif){width=300 fig-align="center"} 
+
+People then chose their own molecule to have a go, optimising the structure.  People bumped into a few of the problems that commonly arise with complex molecules and then solved these problems with skilled help on hand.  Participants achieved a good structure and could then go on to studying the electronic structure which provides key information on bonding and reactivity.
+
+>"Really enjoyed learning about how computational chemistry could benefit my own research (many things I didn't realise were possible) as well as getting hands on with the software itself."
+
+>" Love love love the enthusiasm!"
+
+
+
+

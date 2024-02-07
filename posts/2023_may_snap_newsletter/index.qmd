@@ -1,0 +1,27 @@
+---
+title: "May SNAP Newsletter!"
+subtitle: "May SNAP Newsletter!"
+author: "Patricia Hunt"
+date: "16 05 2023"
+sidebar: false
+navbar:
+  background: light
+categories: 
+  - social-event
+---
+<style>
+.quarto-title-block .quarto-title-banner {
+  background-image: url(images/small_logo.png);
+  border-bottom: solid 10px #FFFFFF;
+  margin-top: -40px;
+  color: white;
+}
+</style>
+
+![](thumbnail1.png){height=200 fig-align="center"}
+
+<h1>May SNAP Newsletter!</h1>
+
+The SNAP Newsletter tells you of SNAP activities and up-coming events, as well as other eActivies you may want to know about.  The SNAP newsletter comes out at irregular intervals, primary when we have a lot to say!
+
+![](may2023_newsletter.png){height=200 fig-align="center"}

@@ -1,0 +1,27 @@
+---
+title: "Markus Luczak-Roesch stepping down from the SNAP working group"
+subtitle: "Markus Luczak-Roesch stepping down from the SNAP working group"
+author: "Patricia Hunt"
+date: "25 05 2023"
+sidebar: false
+navbar:
+  background: light
+categories: 
+  - conference
+---
+<style>
+.quarto-title-block .quarto-title-banner {
+  background-image: url(images/small_logo.png);
+  border-bottom: solid 10px #FFFFFF;
+  margin-top: -40px;
+  color: white;
+}
+</style>
+
+![](Markus-Luczak-Roesch.jpg){height=250 fig-align="center"}
+
+<h1>Markus Luczak-Roesch stepping down from the SNAP working group</h1>
+
+Markus Luczak-Roesch, from the  School of Information Management and School of Business and Government has been one of our founding SNAP working group members.  Due to the effects of long covid he needs to focus his energy on his research and sadly is leaving the working group.  Markus' enthusiasm and willingness to commit his time and effort will be missed.  Markus will stay associated with SNAP and continue to come to our regular coffee catch-ups.
+
+![](marcus_web.png){height=250 fig-align="center"}

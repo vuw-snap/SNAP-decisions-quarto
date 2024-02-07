@@ -1,0 +1,27 @@
+---
+title: "SNAP Christmas Drinks"
+subtitle: "SNAP Christmas Drinks"
+author: "Patricia Hunt"
+date: "13 12 2023"
+sidebar: false
+navbar:
+  background: light
+categories: 
+  - conference
+---
+<style>
+.quarto-title-block .quarto-title-banner {
+  background-image: url(images/small_logo.png);
+  border-bottom: solid 10px #FFFFFF;
+  margin-top: -40px;
+  color: white;
+}
+</style>
+
+![](kelburn_pub.png){height=250 fig-align="center"}
+
+<h1>SNAP Christmas Drinks</h1>
+
+We held our SNAP Christmas drinks on afternoon of 13 December, turn-out was small, but connections were strengthened.  This event closed a very challenging 6 months for the SNAP community.  Thank-you to the Kelburn Village pub who treated us very well, including some free snacks.  As academics, it was great to see and talk with our digital solutions systems administrator David Alderman in a social setting.
+ 
+![](raapoi_admins.png){height=350 fig-align="center"}

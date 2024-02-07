@@ -1,0 +1,40 @@
+---
+title: "Online Software Carpentry workshop"
+subtitle: "Online Software Carpentry workshop"
+summary: Over April 21st and 22nd the Centre for Academic Development hosted an online Software Carpentry workshop.
+author: "Matt Plummer"
+date: "21 04 2022"
+sidebar: false
+navbar:
+  background: light
+  
+tags:
+- Community Building
+- SNAP events
+- resources
+
+categories:
+- Events
+- Reports
+- Community 
+
+---
+<style>
+.quarto-title-block .quarto-title-banner {
+  background-image: url(images/small_logo.png);
+  border-bottom: solid 10px #FFFFFF;
+  margin-top: -40px;
+  color: white;
+}
+</style>
+
+![](thumbnail1.png){width=500 fig-align="center"}
+
+Software Carpentry teaches introductory computational skills that enable the use of key infrastructure such as performance computing clusters, and that aid data management, collaboration, analysis and visualisation. The goal is to empower researchers and enable them to get more done in less time and with less pain.
+
+Over April 21st and 22nd the Centre for Academic Development hosted an online Software Carpentry workshop.
+
+Software Carpentry teaches introductory computational skills that enable the use of key infrastructure such as performance computing clusters, and that aid data management, collaboration, analysis and visualisation. The goal is to empower researchers and enable them to get more done in less time and with less pain. This is achieved by providing hands-on training that combines short tutorials with practical exercises, and all instruction is done via live coding. The syllabus for the April workshop covered an introduction to the UNIX shell (command line), version control with Git, and data and analysis and visualisation in Python.
+
+Analysis was based on an Ecology dataset, but can benefit researchers and staff from all disciplines keen to learn or improve their ability to manage, analyse and visualise data.  The workshop was free to attend, all levels of experience and career were welcome. 
+

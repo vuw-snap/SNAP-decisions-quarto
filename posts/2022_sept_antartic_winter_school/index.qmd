@@ -1,0 +1,54 @@
+---
+title: "The Antarctic Science Platform Winter School"
+subtitle: "The Antarctic Science Platform Winter School for modelling and numerical data analysis"
+author: "Liz Keller"
+date: "06 09 2022"
+sidebar: false
+navbar:
+  background: light
+categories: 
+  - specialist-code-workshop
+---
+<style>
+.quarto-title-block .quarto-title-banner {
+  background-image: url(images/small_logo.png);
+  border-bottom: solid 10px #FFFFFF;
+  margin-top: -40px;
+  color: white;
+}
+</style>
+
+![](thumbnail1.jpg){height=400 fig-align="center"}
+
+The Antarctic Science Platform Modelling Hub (located within the Antarctic Research Centre at VUW) held their second annual “Winter School” on 5-6 Sep 2022 in Wellington. 
+
+The aim of the workshop was to teach foundational numerical and computational skills to students and early career researchers as well as provide the opportunity for established researchers to upskill and diversify their skill-sets. 
+
+These skills are highly sought-after by the earth and environmental science research community but rarely taught to students in a comprehensive manner.
+
+The workshop attracted 23 postgraduate students and researchers working in earth sciences at universities and CRIs around New Zealand. The workshop was taught by the six Modelling Hub post-doctoral fellows, who each drew upon their own unique areas of expertise to design the course material.
+
+The two days consisted of a mix of lectures and hands-on tutorials and practical exercises. Coding exercises were taught using python and the nco command line tools. Topics covered included:
+<ul>
+	<li>Introduction to programming languages and environments</li>
+	<li>Climate model basics and the Coupled Model Intercomparison Project (CMIP6)</li>
+	<li>Getting started with supercomputing (guest lecture from NeSI)</li>
+	<li>Analysis and plotting of spatial data</li>
+	<li>Analysis and plotting of timeseries data</li>
+	<li>Document preparation in LaTeX</li>
+	<li>Work structure and version control</li>
+</ul>
+
+By the end of the two days, participants were able to find and download climate model data of interest, use simple scripts to process, analyse, and plot those data, integrate those outputs into a typeset document, and use version control software to keep track of changes. 
+
+An example of a figure that the students learned to create is given below.
+
+Feedback was very positive. Several participants commented that they really enjoyed the hands-on, practical nature of the workshop and that it introduced them to new tools that they could use in their research straight away. As well as enhancing technical capabilities, the workshop provided a great opportunity for everyone to meet other students and post-docs working in Antarctic research in New Zealand. 
+
+The next workshop is planned for Winter 2023.
+
+![](picture1.png){width=700 fig-align="center"}
+
+
+
+

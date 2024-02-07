@@ -1,0 +1,28 @@
+---
+title: "Hear about our SNAP journey at the eResearch NZ conference"
+subtitle: "Hear about our SNAP journey at the eResearch NZ conference"
+author: "Patricia Hunt"
+date: "09 02 2024"
+sidebar: false
+navbar:
+  background: light
+categories: 
+  - conference
+---
+<style>
+.quarto-title-block .quarto-title-banner {
+  background-image: url(images/small_logo.png);
+  border-bottom: solid 10px #FFFFFF;
+  margin-top: -40px;
+  color: white;
+}
+</style>
+
+![](eresearch_banner1.png){height=200 fig-align="center"}
+
+<h1>Prof. Hunt is speaking about SNAP at the eResearch NZ conference</h1>
+
+We are a community-led initiative comprised of academics and e-resource support staff, from a wide range of disciplines and career stages who use and facilitate numerical and computational modelling.  We have set up SNAP, a VUW network hub for Simulation, Numerical methods, Analytics and Programming with the aim of connecting, supporting and enabling researchers across diverse disciplines, particularly those who have a primary research domain outside of a computing or data-science school.  SNAP facilitates the sharing of expertise across the community and acts as a platform for representation at a strategic level.  In this presentation I will talk about our journey, the challenges and successes.  How did we get started?  What were our objectives and have we met them?  What does SNAP look like now 18 months on and where do we go from here?
+
+
+![](com-Tricia-Hunt.jpg){height=250 fig-align="center"}

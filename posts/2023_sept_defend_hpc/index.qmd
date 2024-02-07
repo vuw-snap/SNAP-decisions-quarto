@@ -1,0 +1,40 @@
+---
+title: "SNAP promotes the importance of the HPC support team"
+subtitle: "SNAP Champions Working Group defend HPC support team"
+author: "Patricia Hunt"
+date: "05 09 2023"
+sidebar: false
+navbar:
+  background: light
+categories: 
+  - conference
+---
+<style>
+.quarto-title-block .quarto-title-banner {
+  background-image: url(images/small_logo.png);
+  border-bottom: solid 10px #FFFFFF;
+  margin-top: -40px;
+  color: white;
+}
+</style>
+
+![](raapoi_1.png){height=250 fig-align="center"}
+
+<h1>SNAP Champions Working Group defend HPC support team</h1>
+
+As part of the financial sustainability process the HPC team was proposed to be disestablished.  The SNAP Champions Working Group defended the HPC team, and made a submission as part of the consulting process.  Part of the letter included some statistics on the use of Raapoi.
+
+The high performance computing platform (Raapoi and support staff) are a critical component to research across the university.  Future students are looking to courses that integrate and use high performance computing and computational tools.
+
+Raapoi currently as of 2023 has 120 users, of which ECS are 29(24%), SBS are 24 (20%) and SCPS are 32 (27%).  The remainder (35 or 29%) come from ARC, Ferrier, PSYC, Robinson, SEF, SGEES, SHPPI, SMS and Admin.  HPC use is distributed over the whole university, with Chemistry&Physics, Engineering and Biology major users.  Extracted from Raapoi use data 2023.  Ferrier, ARC, SBS and SCPS, all currently hold multiple multi-million (M) dollars in grants that use the HPC, as well as smaller <1M grants, we estimate grants totalling more than 25M.
+
+To be productive high performance computing requires active specialist care and attention.  
+
+::: {columns}
+::: {.column width="30%"}
+![](parallel_back.jpg){height=300 fig-align="center"}
+::: 
+::: {.column width="60%"}
+![](raapoi_data.png){height=300 fig-align="center"}
+:::
+:::

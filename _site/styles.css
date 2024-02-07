@@ -1,0 +1,68 @@
+/* css styles */
+/* top right bottom left */
+
+.quarto-title-block .quarto-title-banner {
+  background-image: url(images/small_logo.png);
+  background-size: 200px;
+  background-position: left;
+  background-repeat: no-repeat;
+  padding-left: 1px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-origin: content-box;
+  text-align: center;
+  margin-top: 0px;
+  margin-block-end: -17px;
+#  border: solid 2px #FF9300;
+}
+
+.picture {
+  image-align: center;
+  padding: 0px;
+  margin: 0px;
+}
+
+.row2 {
+  text-align: center;
+#  font-size: 0.8em;
+  font-size: 1.3vw;
+  paddingp: 0px;
+  margin: 0px;
+#  line-height: 1.4;
+#  border: solid 1px #000;
+}
+
+.row {
+#  height: 100%;
+  background-color: #FFF;
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+  float: left;
+  overflow: hidden;
+  text-align: center;
+#  font-size:12px;
+#  border: solid 1px #000;
+}
+
+.grid-container {
+  display: grid;
+  place-items: center;
+}
+
+.grid-item {
+  text-align: center;
+}
+
+.make_space_10
+{
+  padding: 10px 0px 0px 0px;
+  margin: 0px;
+  float: left;
+  width: 100%;
+#  border: solid 1px #f00;
+}
+
+
+
+
