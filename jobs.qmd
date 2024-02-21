@@ -1,0 +1,45 @@
+---
+title: "Jobs" 
+page-layout: article
+title-block-banner: "#28553A"
+title-block-banner-color: white
+
+format: 
+  html:
+    theme: spacelab
+    css: styles.css
+    smooth-scroll: true
+---
+<style>
+.quarto-title-block .quarto-title-banner {
+  padding-bottom: 25px;
+#  border: solid 2px #FF9300;
+}
+</style>
+
+A list of job adverts linked to SNAP areas contributed by members
+
+::: {.grid}
+
+:::{.g-col-3}
+**closing date**
+:::
+
+:::{.g-col-9}
+**particulars**
+:::
+
+:::
+
+::: {.grid}
+
+:::{.g-col-3}
+26 March 2024
+:::
+
+:::{.g-col-9}
+The Department of Physics at King's College London is seeking to recruit a Lecturer in Biophysics. The appointee will have research interests in theoretical biophysics with the aim of consolidating and diversifying existing research within the Department. Further information and the application link can be found at
+<a href="https://www.kcl.ac.uk/jobs/083386-lecturer-in-biological-physics"> https://www.kcl.ac.uk/jobs/083386-lecturer-in-biological-physics</a>
+:::
+
+:::

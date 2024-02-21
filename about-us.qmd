@@ -51,13 +51,6 @@ Research Fellow in the Antarctic Research Centre
 <div class="make_space_10"></div>
 Senior Research Partner in the Research Office
 :::
-:::{.g-col-2}
-![ ](images/com-Anne_Haase.jpg){fig-align="center" width="90%"}
-<div class="make_space_10"></div>
-<span class="badge bg-primary" style="font-size: 1.3vw">Anne Haase</span>
-<div class="make_space_10"></div>
-Head of School in the School of Health
-:::
 :::{.g-col-1}
 :::
 :::
@@ -74,19 +67,21 @@ Head of School in the School of Health
 <div class="make_space_10"></div>
 Scientist in the Ferrier Research Institute              
 :::
-::: {.g-col-2}
-![ ](images/com-David_OSullivan.jpg){fig-align="center" width="90%"}
-<div class="make_space_10"></div>
-<span class="badge bg-primary" style="font-size: 1.3vw">David O'Sullivan</span>
-<div class="make_space_10"></div>
-Professor of Geography and Geospatial Science in the School of Geography, Environment and Earth Sciences
-:::
+
 :::{.g-col-2}
 ![ ](images/com-Yvette-Perrott.jpg){fig-align="center" width="90%"}
 <div class="make_space_10"></div>
 <span class="badge bg-primary" style="font-size: 1.3vw">Yvette Perrott</span>
 <div class="make_space_10"></div>
 Lecturer in Astrophysics in the School of Chemical and Physical Sciences
+:::
+
+:::{.g-col-2}
+![ ](images/com-Anne_Haase.jpg){fig-align="center" width="90%"}
+<div class="make_space_10"></div>
+<span class="badge bg-primary" style="font-size: 1.3vw">Anne Haase</span>
+<div class="make_space_10"></div>
+Head of School in the School of Health
 :::
 
 :::{.g-col-2}
@@ -122,7 +117,14 @@ Associate Professor within the School of Information Management
 <div class="make_space_10"></div>
 Research Capability Team Leader in the Centre for Academic Development
 :::
-:::{.g-col-9}
+::: {.g-col-2}
+![ ](images/com-David_OSullivan.jpg){fig-align="center" width="90%"}
+<div class="make_space_10"></div>
+<span class="badge bg-primary" style="font-size: 1.3vw">David O'Sullivan</span>
+<div class="make_space_10"></div>
+Professor of Geography and Geospatial Science in the School of Geography, Environment and Earth Sciences
+:::
+:::{.g-col-8}
 :::
 :::
 :::

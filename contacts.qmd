@@ -1,0 +1,21 @@
+---
+title: "Contact us"
+page-layout: full
+
+about:
+  id: email
+  template: broadside
+  image: images/small_logo.png
+
+---
+
+:::{#email}
+
+<a href="mailto:snap@vuw.ac.nz"> email SNAP at snap@vuw.ac.nz</a>
+
+
+
+
+.
+
+:::

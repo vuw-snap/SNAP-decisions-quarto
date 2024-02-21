@@ -16,16 +16,20 @@ website:
     left:
       - text: Home
         file: index.qmd
-      - text: About us
+      - text: About-us
         file: about-us.qmd
+      - text: Contact-us
+        file: contacts.qmd
+      - text: Blog
+        file: blog.qmd
+      - text: SNAP-related-jobs
+        file: jobs.qmd
 #      - file: events.qmd
 #      - file: code.qmd
 #      - file: courses.qmd
-#      - file: contacts.qmd
-      - file: blog.qmd
-    right:
-      - icon: github
-        href: https://github.com/
+#    right:
+#      - icon: github
+#        href: https://github.com/
 
   sidebar:
       style: docked
@@ -40,10 +44,15 @@ website:
           file: index.qmd
         - text: About us
           file: about-us.qmd
+        - text: Contact us
+          file: contacts.qmd
+        - text: Blog
+          file: blog.qmd
+        - text: Jobs
+          file: jobs.qmd
 #        - events.qmd
 #        - code.qmd
 #        - courses.qmd
-#        - contacts.qmd
 
 format:
   html:
