@@ -1,0 +1,34 @@
+---
+title: "SNAP Planning Workshop"
+subtitle: "SNAP Planning Workshop"
+author: "Brendan Harding"
+date: "16 02 2024"
+sidebar: false
+navbar:
+  background: light
+categories:
+  - workshop
+---
+<style>
+.quarto-title-block .quarto-title-banner {
+  background-image: url(../../images/small_logo.png);
+  border-bottom: solid 10px #FFFFFF;
+  margin-top: -40px;
+  color: white;
+}
+</style>
+
+![](PadletScreenshot.png){height=400 fig-align="center"}
+
+<h1>SNAP Planning Workshop</h1>
+
+We held a planning workshop on the afternoon of 16 February 2024 with the aim of generating some ideas for activities SNAP could organise and participate in throughout 2024.
+There was a good turn-out of PhDs and postdocs, especially from SCPS, as well as a number of staff (both academic and professional) including Rohit Duggal (pic below) who is the new HPC specialist looking after Rāpoi.
+There was much lively discussion and brainstorming with lots of ideas generated, the PhD students were particularly enthusiastic and contributed many good ideas.
+If you missed the planning workshop and have some ideas of your own please get in touch!
+
+The planning workshop was followed by our regular SNAP community coffee meetup at Milk and Honey on 7 March.
+There was some good discussion following up on some of the ideas discussed during the planning workshop, plus some new ideas!
+If you are interested in coming to a community coffee meetup (next one is 1st May) or want to stay informed about any SNAP events held throughout the year, please get in touch and we'll add you to the SNAP email list!
+ 
+[![](RohitDuggalProfile.jpg){height=200 fig-align="center"}](https://vuw-research-computing.github.io/raapoi-docs/support/)

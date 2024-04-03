@@ -41,6 +41,14 @@ SNAP has been set-up to connect, support and enable researchers across diverse d
 :::
 
 
-#### Check our blog for the latest activities.
+#### Check our [blog](blog.html) for the latest activities.
 
-![ ](images/blog_april_2023.png){fig-align="left" width="60%"}
+---
+listing:
+  type: grid
+  contents: posts
+  sort: "date desc"
+  sort-ui: false
+  filter-ui: false
+  max-items: 3
+---
