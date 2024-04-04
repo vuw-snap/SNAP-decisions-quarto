@@ -1,11 +1,11 @@
 project:
   type: website
-  output-dir: /Users/harding/Programming/github/SNAP-decisions
+  output-dir: /Users/tricia/Documents/GitHub_snap/SNAP-decisions
 
 website:
   title: snap-decisions
   back-to-top-navigation: true
-  page-footer: "© 2023 SNAP. Licensed under CC BY NC ND 4.0" 
+  page-footer: "© 2024 SNAP. Licensed under CC BY NC ND 4.0" 
 
   navbar:
     background: dark    
