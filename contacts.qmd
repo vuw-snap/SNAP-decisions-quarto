@@ -1,21 +1,34 @@
 ---
 title: "Contact us"
 page-layout: full
+title-block-banner: "#28553A"
+title-block-banner-color: white
 
-about:
-  id: email
-  template: broadside
-  image: images/small_logo.png
+format:
+  html:
+    theme: spacelab
+    css: styles.css
+    smooth-scroll: true
 
 ---
+<style>
+.quarto-title-block .quarto-title-banner {
+  padding-bottom: 25px;
+#  border: solid 2px #FF9300;
+}
+</style>
 
-:::{#email}
+::: {.grid}
+:::{.g-col-5}
 
-<a href="mailto:snap@vuw.ac.nz"> email SNAP at snap@vuw.ac.nz</a>
-
-
-
-
-.
+![ ](images/snap_logo_large.png){fig-align="center" width="90%"}
 
 :::
+::: {.g-col-7}
+
+<p style="font-size:24px">Email SNAP at <a href="mailto:snap@vuw.ac.nz">snap@vuw.ac.nz</a></p>
+
+:::
+:::
+
+
