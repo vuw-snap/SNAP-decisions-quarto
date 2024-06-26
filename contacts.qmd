@@ -8,15 +8,8 @@ format:
   html:
     theme: spacelab
     css: styles.css
-    smooth-scroll: true
 
 ---
-<style>
-.quarto-title-block .quarto-title-banner {
-  padding-bottom: 25px;
-#  border: solid 2px #FF9300;
-}
-</style>
 
 ::: {.grid}
 :::{.g-col-5}

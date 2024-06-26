@@ -1,8 +1,9 @@
 ---
-title: "Hear about our SNAP journey at the eResearch NZ conference"
-subtitle: "Hear about our SNAP journey at the eResearch NZ conference"
+title: "Hear about our SNAP journey at eResearch NZ"
 author: "Patricia Hunt"
 date: "09 02 2024"
+title-block-banner: "#28553A"
+title-block-banner-color: white
 sidebar: false
 navbar:
   background: light
@@ -10,11 +11,8 @@ categories:
   - conference
 ---
 <style>
-.quarto-title-block .quarto-title-banner {
-  background-image: url(images/small_logo.png);
-  border-bottom: solid 10px #FFFFFF;
-  margin-top: -40px;
-  color: white;
+.quarto-title > h1.title {
+  padding-left: 191px;
 }
 </style>
 

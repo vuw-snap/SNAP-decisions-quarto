@@ -9,7 +9,6 @@ format:
   html:
     theme: spacelab
     css: styles.css
-    smooth-scroll: true
 
 listing:
   type: grid
@@ -17,12 +16,7 @@ listing:
   sort: "date desc"
   sort-ui: false
   filter-ui: false
+  
 ---
-<style>
-.quarto-title-block .quarto-title-banner {
-  padding-bottom: 25px;
-#  border: solid 2px #FF9300;
-}
-</style>
 
 

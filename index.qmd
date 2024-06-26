@@ -1,6 +1,6 @@
 ---
 title: "SNAP" 
-subtitle: "VUW-hub for Simmulation, Numerics, Analytics and Programming"
+subtitle: "VUW-hub for Simulation, Numerics, Analytics and Programming"
 page-layout: full
 title-block-banner: "#28553A"
 title-block-banner-color: white

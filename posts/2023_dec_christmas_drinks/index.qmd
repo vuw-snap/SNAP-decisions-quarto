@@ -1,8 +1,9 @@
 ---
 title: "SNAP Christmas Drinks"
-subtitle: "SNAP Christmas Drinks"
 author: "Patricia Hunt"
 date: "13 12 2023"
+title-block-banner: "#28553A"
+title-block-banner-color: white
 sidebar: false
 navbar:
   background: light
@@ -10,11 +11,8 @@ categories:
   - conference
 ---
 <style>
-.quarto-title-block .quarto-title-banner {
-  background-image: url(images/small_logo.png);
-  border-bottom: solid 10px #FFFFFF;
-  margin-top: -40px;
-  color: white;
+.quarto-title > h1.title {
+  padding-left: 191px;
 }
 </style>
 
