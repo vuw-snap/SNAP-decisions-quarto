@@ -2,7 +2,14 @@
 title: "Blog"
 background: light
 page-layout: full
-title-block-banner: false
+title-block-banner: "#28553A"
+title-block-banner-color: white
+
+format:
+  html:
+    theme: spacelab
+    css: styles.css
+    smooth-scroll: true
 
 listing:
   type: grid
@@ -10,10 +17,12 @@ listing:
   sort: "date desc"
   sort-ui: false
   filter-ui: false
-format: 
-  html:
-    theme: spacelab
-    css: styles.css
 ---
+<style>
+.quarto-title-block .quarto-title-banner {
+  padding-bottom: 25px;
+#  border: solid 2px #FF9300;
+}
+</style>
 
 
