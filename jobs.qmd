@@ -34,12 +34,12 @@ A list of job adverts linked to SNAP areas contributed by members
 ::: {.grid}
 
 :::{.g-col-3}
-26 March 2024
+1 Nov 2024
 :::
 
 :::{.g-col-9}
-The Department of Physics at King's College London is seeking to recruit a Lecturer in Biophysics. The appointee will have research interests in theoretical biophysics with the aim of consolidating and diversifying existing research within the Department. Further information and the application link can be found at
-<a href="https://www.kcl.ac.uk/jobs/083386-lecturer-in-biological-physics"> https://www.kcl.ac.uk/jobs/083386-lecturer-in-biological-physics</a>
+The School of Mathematics and Statistics at Victoria University of Wellington is seeking to recruit a high achieving students in applied mathematics (or similar) with an interest in pursuing a PhD on a topic related to the mathematical modelling of microfluidic phenomena under the supervision of Dr Brendan Harding. The PhD scholarship includes a generous scholarship ($35k NZD per year for 3 years plus tuition fees). Further information and the application link can be found at
+<a href="https://www.wgtn.ac.nz/scholarships/current/phd-scholarship-in-applied-mathematics-on-modelling-microfluidic-phenomena"> https://www.wgtn.ac.nz/scholarships/current/phd-scholarship-in-applied-mathematics-on-modelling-microfluidic-phenomena</a>
 :::
 
 :::
