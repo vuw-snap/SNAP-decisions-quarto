@@ -18,5 +18,10 @@ listing:
   filter-ui: false
   
 ---
+<style>
+.quarto-title-block .quarto-title-banner {
+  padding-bottom: 24px; # padding adjustment so logo is not cut-off
+}
+</style>
 
 

@@ -1,8 +1,10 @@
 ---
 title: "Brief summary of our March survey"
-subtitle: "Brief summary of our March survey"
+#subtitle: "Brief summary of our March survey"
 author: "Brendan Harding"
 date: "23 06 2022"
+title-block-banner: "#28553A"
+title-block-banner-color: white
 sidebar: false
 navbar:
   background: light
@@ -16,13 +18,12 @@ categories:
 - Community 
 
 ---
-
 <style>
-.quarto-title-block .quarto-title-banner {
-  background-image: url(images/small_logo.png);
-  border-bottom: solid 10px #FFFFFF;
-  margin-top: -40px;
-  color: white;
+.quarto-title > h1.title, p.subtitle {
+  padding-left: 190px; # prevent long titles (and subtitles) from overlapping logo
+}
+.quarto-categories {
+  padding-left: 110px; # (mostly) prevent categories from overlapping the logo
 }
 </style>
 

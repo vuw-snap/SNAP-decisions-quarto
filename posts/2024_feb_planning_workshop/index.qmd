@@ -1,8 +1,10 @@
 ---
 title: "SNAP Planning Workshop"
-subtitle: "SNAP Planning Workshop"
+#subtitle: "SNAP Planning Workshop"
 author: "Brendan Harding"
 date: "16 02 2024"
+title-block-banner: "#28553A"
+title-block-banner-color: white
 sidebar: false
 navbar:
   background: light
@@ -10,11 +12,11 @@ categories:
   - workshop
 ---
 <style>
-.quarto-title-block .quarto-title-banner {
-  background-image: url(../../images/small_logo.png);
-  border-bottom: solid 10px #FFFFFF;
-  margin-top: -40px;
-  color: white;
+.quarto-title > h1.title, p.subtitle {
+  padding-left: 190px; # prevent long titles (and subtitles) from overlapping logo
+}
+.quarto-categories {
+  padding-left: 110px; # (mostly) prevent categories from overlapping the logo
 }
 </style>
 

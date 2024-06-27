@@ -4,9 +4,16 @@ subtitle: 'A gentle introduction to computational linguistics and Python’s Nat
 summary: The inaugural SNAP training workshop was held 19 October in TTR106
 author: "Stephen Skalicky and Matt Plummer"
 date: "16 10 2022"
+title-block-banner: "#28553A"
+title-block-banner-color: white
 sidebar: false
 navbar:
   background: light
+
+categories:
+- Events
+- Training
+- Community 
 
 tags:
 - Community Building
@@ -16,18 +23,13 @@ tags:
 - Python
 - NLTK
 
-categories:
-- Events
-- Training
-- Community 
-
 ---
 <style>
-.quarto-title-block .quarto-title-banner {
-  background-image: url(images/small_logo.png);
-  border-bottom: solid 10px #FFFFFF;
-  margin-top: -40px;
-  color: white;
+.quarto-title > h1.title, p.subtitle {
+  padding-left: 190px; # prevent long titles (and subtitles) from overlapping logo
+}
+.quarto-categories {
+  padding-left: 110px; # (mostly) prevent categories from overlapping the logo
 }
 </style>
 

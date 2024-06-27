@@ -1,30 +1,32 @@
 ---
 title: "Refelctions on the First SNAP Event"
-subtitle: "Refelctions on the First SNAP Event"
+#subtitle: "Refelctions on the First SNAP Event"
 summary: The inaugural SNAP workshop was held on 13th April 2022 in an online format (via zoom)
 author: "Brendan Harding"
 date: "13 04 2022"
+title-block-banner: "#28553A"
+title-block-banner-color: white
 sidebar: false
 navbar:
   background: light
+
+categories:
+- Events
+- Reports
+- Community 
   
 tags:
 - Community Building
 - SNAP events
 - resources
 
-categories:
-- Events
-- Reports
-- Community 
-
 ---
 <style>
-.quarto-title-block .quarto-title-banner {
-  background-image: url(images/small_logo.png);
-  border-bottom: solid 10px #FFFFFF;
-  margin-top: -40px;
-  color: white;
+.quarto-title > h1.title, p.subtitle {
+  padding-left: 190px; # prevent long titles (and subtitles) from overlapping logo
+}
+.quarto-categories {
+  padding-left: 110px; # (mostly) prevent categories from overlapping the logo
 }
 </style>
 
@@ -45,4 +47,3 @@ Brendan
 
  > *I really enjoyed the inaugural SNAP workshop. It was great to connect with other data analysts at VUW and find out who’s doing what. The idea of collaborating to develop resources for visualisation and data analysis is very exciting!* --- Prof. James Renwick, SGEES
 
-![](/images/InauguralWorkshopParticipants.png)
