@@ -22,8 +22,8 @@ website:
         file: contacts.qmd
       - text: Blog
         file: blog.qmd
-      - text: SNAP-related-jobs
-        file: jobs.qmd
+#      - text: SNAP-related-jobs
+#        file: jobs.qmd
 #      - file: events.qmd
 #      - file: code.qmd
 #      - file: courses.qmd
@@ -48,8 +48,8 @@ website:
           file: contacts.qmd
         - text: Blog
           file: blog.qmd
-        - text: Jobs
-          file: jobs.qmd
+#        - text: Jobs
+#          file: jobs.qmd
 #        - events.qmd
 #        - code.qmd
 #        - courses.qmd
