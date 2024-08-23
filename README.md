@@ -20,8 +20,8 @@ from within the quarto directory type <br>
 quarto render (to produce the html) <br>
 quarto preview (to produce a preview in your browser)<br>
 <br>
-NOTE:the html will be in directory "_site" unless you point to another directory in _quarto.yml, currently I point to the SNAP-decisions directory via the following line in _quarto.yml , you will want to change this to your directory<br>
-output-dir: /Users/tricia/Documents/GitHub_snap/SNAP-decisions <br>
+NOTE:the html will be in directory "../SNAP-decisions" unless you point to another directory in _quarto.yml, you will want to change the following line in _quarto.yml<br>
+output-dir: ../SNAP-decisions <br>
 <br>
 check that you like everything, if not make further changes in the quarto directory and visualise using preview <br>
 once you are happy, send everything back to github <br>
