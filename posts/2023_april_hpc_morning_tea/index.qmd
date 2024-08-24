@@ -3,26 +3,16 @@ title: "HPC Morning Tea"
 subtitle: "Ask questions about the Rāpoi cluster or simply chat to the support staff from CAD’s Research Capability Team"
 author: "Konstantina Vasileva"
 date: "17 04 2023"
-title-block-banner: "#28553A"
-title-block-banner-color: white
 sidebar: false
 navbar:
   background: light
 categories: 
   - raapoi-cluster
 ---
-<style>
-.quarto-title > h1.title, p.subtitle {
-  padding-left: 190px; # prevent long titles (and subtitles) from overlapping logo
-}
-.quarto-categories {
-  padding-left: 110px; # (mostly) prevent categories from overlapping the logo
-}
-</style>
 
 ![](thumbnail1.jpg){height=300 fig-align="center"}
 
->The HPC Morning Tea is the best way to ask your questions about the Rāpoi cluster or simply chat to the support staff from CAD’s Research Capability Team. A hot beverage, a snack and updates on high performance computing – what's not to like?
+The HPC Morning Tea is the best way to ask your questions about the Rāpoi cluster or simply chat to the support staff from CAD’s Research Capability Team. A hot beverage, a snack and updates on high performance computing – what's not to like?
 
 HPC morning tea meetings happen several times a year with the intention to run at least once a trimester. In addition to socialising with other Rāpoi users (from those who are just starting to weathered HPC veterans), these meetings are an important way to stay have your input and learn from the team what are the steps to getting important jobs scheduled and prioritised, and how to negotiate more efficient student access if you intend to use Rāpoi for teaching.
 

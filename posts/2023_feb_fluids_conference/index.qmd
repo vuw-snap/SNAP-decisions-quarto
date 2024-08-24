@@ -2,8 +2,6 @@
 title: "Fluids in New Zealand (FiNZ) Workshop 2023"
 #subtitle: "Fluids in New Zealand (FiNZ) Workshop 2023"
 author: "Brendan Harding"
-title-block-banner: "#28553A"
-title-block-banner-color: white
 date: "15 02 2023"
 sidebar: false
 navbar:
@@ -11,14 +9,6 @@ navbar:
 categories: 
   - conference
 ---
-<style>
-.quarto-title > h1.title, p.subtitle {
-  padding-left: 190px; # prevent long titles (and subtitles) from overlapping logo
-}
-.quarto-categories {
-  padding-left: 110px; # (mostly) prevent categories from overlapping the logo
-}
-</style>
 
 ![](fnz_bars.png){height=150 fig-align="center"}
 

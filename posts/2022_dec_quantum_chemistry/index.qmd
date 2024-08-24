@@ -3,13 +3,14 @@ title: "Beginners Introduction to Computational Chemistry"
 #subtitle: "Beginners Introduction to Computational Chemistry"
 author: "Patricia Hunt"
 date: "06 12 2022"
+sidebar: false
 title-block-banner: "#28553A"
 title-block-banner-color: white
-sidebar: false
 navbar:
   background: light
 categories: 
   - raapoi-cluster
+
 ---
 <style>
 .quarto-title > h1.title, p.subtitle {

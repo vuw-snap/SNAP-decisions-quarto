@@ -3,22 +3,12 @@ title: "May SNAP Newsletter!"
 #subtitle: "May SNAP Newsletter!"
 author: "Patricia Hunt"
 date: "16 05 2023"
-title-block-banner: "#28553A"
-title-block-banner-color: white
 sidebar: false
 navbar:
   background: light
 categories: 
-  - social-event
+  - newsletter
 ---
-<style>
-.quarto-title > h1.title, p.subtitle {
-  padding-left: 190px; # prevent long titles (and subtitles) from overlapping logo
-}
-.quarto-categories {
-  padding-left: 110px; # (mostly) prevent categories from overlapping the logo
-}
-</style>
 
 ![](thumbnail1.png){height=200 fig-align="center"}
 

@@ -3,22 +3,12 @@ title: "SNAP Coffee March"
 subtitle: "SNAP Coffee: Join us to meet other SNAPites"
 author: "Patricia Hunt"
 date: "15 03 2023"
-title-block-banner: "#28553A"
-title-block-banner-color: white
 sidebar: false
 navbar:
   background: light
 categories: 
   - social-event
 ---
-<style>
-.quarto-title > h1.title, p.subtitle {
-  padding-left: 190px; # prevent long titles (and subtitles) from overlapping logo
-}
-.quarto-categories {
-  padding-left: 110px; # (mostly) prevent categories from overlapping the logo
-}
-</style>
 
 ![](thumbnail1.jpeg){height=500 fig-align="center"}
 

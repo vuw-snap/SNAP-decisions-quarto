@@ -3,22 +3,10 @@ title: "SNAP promotes the importance of the HPC support team"
 #subtitle: "SNAP Champions Working Group defend HPC support team"
 author: "Patricia Hunt"
 date: "05 09 2023"
-title-block-banner: "#28553A"
-title-block-banner-color: white
 sidebar: false
 navbar:
   background: light
-categories: 
-  - conference
 ---
-<style>
-.quarto-title > h1.title, p.subtitle {
-  padding-left: 190px; # prevent long titles (and subtitles) from overlapping logo
-}
-.quarto-categories {
-  padding-left: 110px; # (mostly) prevent categories from overlapping the logo
-}
-</style>
 
 ![](raapoi_1.png){height=250 fig-align="center"}
 

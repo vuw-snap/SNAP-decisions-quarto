@@ -1,8 +1,10 @@
 ---
-title: "SNAP Planning Workshop"
+title: "XXX"
 #subtitle: "SNAP Planning Workshop"
 author: "Brendan Harding"
 date: "16 02 2024"
+title-block-banner: "#28553A"
+title-block-banner-color: white
 sidebar: false
 navbar:
   background: light

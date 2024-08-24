@@ -2,22 +2,12 @@
 title: "Hear about our SNAP journey at eResearch NZ"
 author: "Patricia Hunt"
 date: "09 02 2024"
-title-block-banner: "#28553A"
-title-block-banner-color: white
 sidebar: false
 navbar:
   background: light
 categories: 
   - conference
 ---
-<style>
-.quarto-title > h1.title, p.subtitle {
-  padding-left: 190px; # prevent long titles (and subtitles) from overlapping logo
-}
-.quarto-categories {
-  padding-left: 110px; # (mostly) prevent categories from overlapping the logo
-}
-</style>
 
 ![](eresearch_banner1.png){height=200 fig-align="center"}
 

@@ -3,22 +3,12 @@ title: "SCPS ChatGPT workshop"
 subtitle: "How can ChatGPT help your research, a discussion workshop"
 author: "Yvette Perrott"
 date: "24 05 2023"
-title-block-banner: "#28553A"
-title-block-banner-color: white
 sidebar: false
 navbar:
   background: light
 categories: 
   - workshop
 ---
-<style>
-.quarto-title > h1.title, p.subtitle {
-  padding-left: 190px; # prevent long titles (and subtitles) from overlapping logo
-}
-.quarto-categories {
-  padding-left: 110px; # (mostly) prevent categories from overlapping the logo
-}
-</style>
 
 ![](scps_bars.png){height=250 fig-align="center"}
 

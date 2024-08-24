@@ -1,18 +1,38 @@
 /* css styles */
 /* top right bottom left */
 
+/* Custom CSS to title block making a background */
 .quarto-title-block .quarto-title-banner {
   background-image: url(images/small_logo.png);
   background-size: 190px;
   background-position: left;
   background-repeat: no-repeat;
-#  padding-left: 1px;
-  padding-top: 15px;
-  padding-bottom: 15px;
   background-origin: content-box;
-  text-align: center;
+  background-color: #28553A;
   margin-top: 0px;
-  margin-block-end: -17px;
+  padding-bottom: 25px;
+  margin-block-end: -5px;
+#  border: solid 2px #FFF600;
+}
+
+.quarto-title-block .quarto-categories {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+#  border: solid 2px #FF9300;
+}
+
+.quarto-title {
+  margin-left: 180px;
+#  border: solid 1px white;
+} 
+
+.quarto-title-block .title {
+  margin-left: 0px;
+  text-align: left;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
 #  border: solid 2px #FF9300;
 }
 
@@ -62,6 +82,7 @@
   width: 100%;
 #  border: solid 1px #f00;
 }
+
 
 
 

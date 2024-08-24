@@ -1,0 +1,37 @@
+---
+title: "Intro to Scikit Workshop"
+author: "Rohit and Tricia"
+date: "22 04 2024"
+sidebar: false
+navbar:
+  background: light
+categories:
+  workshop
+
+---
+
+![](scikit-learn1.png){height=250 fig-align="center"}
+
+<h1>Introduction to Scikit-Learn: Machine Learning with Python</h1>
+
+Postgraduates and staff attended the workshop on 22nd April 2024 from 2 pm to 4 pm. The workshop focussed on an interactive learning environment, encouraging participants to ask questions, share insights, and collaborate on exercises. With a focus on practical implementation, attendees gained the knowledge and confidence to apply machine learning techniques to their own projects and datasets.
+
+Scikit-Learn is a Python package which hosts a number of widely used machine learning algorithms within Python code. It is becoming popular across industry and academia, especially as interest in Artificial Intelligence advances.
+
+Machine learning algorithms are small building blocks towards Artificial Intelligence which allow computers to appear to respond intelligently to human requests.  These work by creating a complex web of equations where coefficients have been determined by variation, and in part randomly. 
+
+The workshop was for postgraduate students and staff interested in learning and exploring machine learning in their research.
+
+The hands-on workshop introduced Google Colab which is a free-to-use Jupyter Notebook that requires little setup to use and is suitable for machine learning. The workshop then progressed to explore:
+-	Getting started with Colab’s features to mount directories, run code, and make comments.
+-	Exploring available datasets for supervised and unsupervised learning examples.
+-	Preparing and representing data in Scikit-Learn.
+-	Introducing classification and regression principles through a series of examples.
+
+The workshop delved into exploring strengths, weaknesses, and real-world applications of various machine learning algorithms. 
+
+Links:
+<br> [scikit-learn](https://scikit-learn.org/stable/)
+<br> [Nesi tutorial](https://github.com/nesi/sklearn_tutorial)
+
+![](scikit-learn1.png){height=200 fig-align="center"}
