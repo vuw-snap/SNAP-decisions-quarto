@@ -8,21 +8,22 @@ format:
   html:
     theme: spacelab
     css: styles.css
-
+    
+# using bootstrap.com css grid layout
+# https://quarto.org/docs/output-formats/page-layout.html (not super helpful)
+# works on standard 12 column division of the page so .g-col-2 is 2 of these columns
+# and is 1/6th of the page
+# make sure you have a blank line before the .grid statement
 ---
-<style>
-.quarto-title-block .quarto-title-banner {
-  padding-bottom: 24px; # padding adjustment so logo is not cut-off
-}
-</style>
 
 Current Members
 
-::: {.row2}
 ::: {.grid}
-:::{.g-col-1}
+
+::: {.g-col-1}
 :::
-:::{.g-col-2}
+
+::: {.g-col-2}
 ![ ](images/com-Tricia-Hunt.jpg){fig-align="center" width="90%"}
 <div class="make_space_10"></div>
 <span class="badge bg-primary" style="font-size: 1.3vw">Patricia Hunt</span>
@@ -36,28 +37,19 @@ Professor in the School of Chemical and Physical Sciences
 <div class="make_space_10"></div>
 Lecturer in the Scool of Computational Mathematics and Statistics
 :::
-:::{.g-col-2}
-![ ](images/col-Liz-Keller.jpg){fig-align="center" width="90%"}
+::: {.g-col-2}
+![ ](images/com-Liz-Keller.jpg){fig-align="center" width="90%"}
 <div class="make_space_10"></div>
 <span class="badge bg-primary" style="font-size: 1.3vw">Liz Keller</span>
 <div class="make_space_10"></div>
 Research Fellow in the Antarctic Research Centre
 :::
-:::{.g-col-2}
-![ ](images/col-Matt-Plummer.jpg){fig-align="center" width="90%"}
+::: {.g-col-2}
+![ ](images/com-Rohit-Duggal.jpg){fig-align="center" width="90%"}
 <div class="make_space_10"></div>
-<span class="badge bg-primary" style="font-size: 1.3vw">Matt Plummer</span>
+<span class="badge bg-primary" style="font-size: 1.3vw">Rohit Duggal</span>
 <div class="make_space_10"></div>
-Senior Research Partner in the Research Office
-:::
-:::{.g-col-1}
-:::
-:::
-:::
-
-::: {.row2}
-::: {.grid}
-:::{.g-col-1}
+Rāpoi - Research Computing Specialist 
 :::
 :::{.g-col-2}
 ![ ](images/com-Wanting-Jiao.jpg){fig-align="center" width="90%"}
@@ -66,7 +58,15 @@ Senior Research Partner in the Research Office
 <div class="make_space_10"></div>
 Scientist in the Ferrier Research Institute              
 :::
+::: {.g-col-1}
+:::
 
+:::
+
+:::{.grid}
+
+::: {.g-col-1}
+:::
 :::{.g-col-2}
 ![ ](images/com-Yvette-Perrott.jpg){fig-align="center" width="90%"}
 <div class="make_space_10"></div>
@@ -74,7 +74,6 @@ Scientist in the Ferrier Research Institute
 <div class="make_space_10"></div>
 Lecturer in Astrophysics in the School of Chemical and Physical Sciences
 :::
-
 :::{.g-col-2}
 ![ ](images/com-Anne_Haase.jpg){fig-align="center" width="90%"}
 <div class="make_space_10"></div>
@@ -82,7 +81,6 @@ Lecturer in Astrophysics in the School of Chemical and Physical Sciences
 <div class="make_space_10"></div>
 Head of School in the School of Health
 :::
-
 :::{.g-col-2}
 ![ ](images/com-Steven-Skalicky.jpg){fig-align="center" width="90%"}
 <div class="make_space_10"></div>
@@ -90,17 +88,25 @@ Head of School in the School of Health
 <div class="make_space_10"></div>
 Senior Lecturer in the School of Linguistics and Applied Language Studies 
 :::
-:::{.g-col-3}
+:::{.g-col-2}
+![ ](images/com-David-Alderman.jpg){fig-align="center" width="90%"}
+<div class="make_space_10"></div>
+<span class="badge bg-primary" style="font-size: 1.3vw">David Alderman</span>
+<div class="make_space_10"></div>
+Systems Administrator, Digital Solutions 
 :::
+::: {.g-col-3}
 :::
+
 :::
 
 Retired Members
 
-::: {.row2}
-::: {.grid}
-:::{.g-col-1}
+:::{.grid}
+
+::: {.g-col-1}
 :::
+
 :::{.g-col-2}
 ![ ](images/com-Markus-Luczak-Roesch.jpg){fig-align="center" width="90%"}
 <div class="make_space_10"></div>
@@ -123,7 +129,15 @@ Research Capability Team Leader in the Centre for Academic Development
 <div class="make_space_10"></div>
 Professor of Geography and Geospatial Science in the School of Geography, Environment and Earth Sciences
 :::
-:::{.g-col-8}
+:::{.g-col-2}
+![ ](images/col-Matt-Plummer.jpg){fig-align="center" width="90%"}
+<div class="make_space_10"></div>
+<span class="badge bg-primary" style="font-size: 1.3vw">Matt Plummer</span>
+<div class="make_space_10"></div>
+Senior Research Partner in the Research Office
 :::
+::: {.g-col-3}
 :::
+
 :::
+
