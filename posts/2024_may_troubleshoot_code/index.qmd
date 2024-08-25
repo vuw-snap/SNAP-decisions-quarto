@@ -1,0 +1,22 @@
+---
+title: "Troubleshooting your code"
+author: "Tricia"
+date: "24 05 2024"
+sidebar: false
+navbar:
+  background: light
+categories:
+  workshop
+
+---
+
+![](debug_code.png){height=250 fig-align="center"}
+
+<h1>Troubleshooting your code</h1>
+
+Yvette from the School of Chemical and Physical Sciences led a workshop on debugging python code.
+
+What do you do when your code doesn’t work?  Dealing with bugs and errors is an important skill to have when using computational methods for research, and it’s something we often don’t get taught but are expected to pick up on our own. 
+
+In this workshop, attendees will work through some buggy python code together and develop strategies for debugging it.  We will also introduce the idea of unit testing for writing more robust code that doesn’t crash in the first place!   
+

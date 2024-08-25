@@ -10,29 +10,31 @@
   background-origin: content-box;
   background-color: #28553A;
   margin-top: 0px;
-  padding-bottom: 25px;
+  padding-bottom: 30px;
+  padding-top: 25px;
   margin-block-end: -5px;
 #  border: solid 2px #FFF600;
+}
+
+.quarto-title {
+  margin-left: 180px;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  width: calc(100% - 270px);
+#  border: solid 1px white;
+} 
+
+/* for some reason white doesn't work in .quarto-title */
+.quarto-title-block .title {
+  color: white;
+# border: solid 2px #FF9300;
 }
 
 .quarto-title-block .quarto-categories {
   position: absolute;
   top: 20px;
   right: 20px;
-#  border: solid 2px #FF9300;
-}
-
-.quarto-title {
-  margin-left: 180px;
-#  border: solid 1px white;
-} 
-
-.quarto-title-block .title {
-  margin-left: 0px;
-  text-align: left;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  color: white;
 #  border: solid 2px #FF9300;
 }
 
