@@ -1,0 +1,36 @@
+---
+title: "August Git and Pre-commit Workshop"
+author: "Brendan"
+date: "29 08 2024"
+sidebar: false
+navbar:
+  background: light
+categories:
+  workshop
+
+---
+
+![](version-control-survey.png){height=250 fig-align="center"}
+
+<h1>Git and Pre-Commit Workshop</h1>
+
+On 21st August, James Quilty from the School of Engineering and Computer Science led a workshop on the best practices when using Git and an introduction to pre-commit tools.
+
+The workshop was attended by roughly 12 people in-person and a couple more joining online.
+James ran us through some of the deficiencies of git, why we are stuck with it, and how to avoid some of the pitfalls that are easy to fall into when using it.
+This also included some really useful tips on how frequently you should interact with the various git commands (hint: don't do add, commit, and push with every change)!
+James then gave us an introduction to pre-commit tools, how they can help you pick up on various issues early and prevent them from getting into your code.
+These tools can also help you to use and maintain a consistent coding style and write useful commit messages!
+
+There may be opportunities for further workshops on git and pre-commit in the future. 
+If this might interest yourself, your colleagues and/or your students, please get in touch with someone on the SNAP committee!
+
+If you have some software/numerical/analytical/programming expertise you want to share with the broader university community, please also get in touch, we'd love to help you run a workshop!
+
+
+
+
+
+<h3>Workshop abstract:</h3>
+
+Despite the ubiquitous use of git as a source control management system, git has many idiosyncrasies which make it easy for people to stumble into confusing situations. Many of us have picked up the basics of git (e.g. commands such as clone, pull, commit, push) from one of the vast pool of online forums, blogs and resources without realising some of the pitfalls one can easily fall into - has your work ever ground to a halt due to the need to resolve conflicts before merging changes into a repository?
