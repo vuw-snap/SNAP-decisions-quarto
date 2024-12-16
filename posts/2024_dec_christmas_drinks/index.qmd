@@ -1,0 +1,23 @@
+---
+title: "SNAP Christmas Drinks"
+author: "Tricia"
+date: "04 12 2024"
+sidebar: false
+navbar:
+  background: light
+categories:
+  - social-event
+
+---
+
+![](snap_christmas_drinks_2024.jpeg){height=400 fig-align="center"}
+
+<h1>SNAP Christmas Drinks</h1>
+
+On 4th December, SNAP committee members had their end-of-year Christmas drinks at the Kelburn Pub.
+
+This rounds out a year where SNAP members have supported a reduced technical team for Raapoi and where many members have had challenging work schedules due to colleagues leaving.  
+
+We have run many workshops, watched AI and ML grow worldwide, provided input into resource scoping, talked nationally about our journey and most importantly stayed connected and supported each other.
+
+

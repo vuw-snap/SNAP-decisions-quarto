@@ -1,0 +1,30 @@
+---
+title: "SNAP end of year morning tea"
+author: "Tricia"
+date: "03 12 2024"
+sidebar: false
+navbar:
+  background: light
+categories:
+  - social-event
+
+---
+
+![](snap_tea_attended_2024.jpeg){height=300 fig-align="center"}
+
+<h1>SNAP end of year morning tea</h1>
+
+On 3rd December, SNAP members held a festive morning of coding fun to round out the year.
+
+This was a morning teas for the seasoned programmer or those just curious about coding.  
+
+We enjoyed a relaxed morning tea while exploring a Christmas-themed language model and plotting Santa's orbit around the Earth.  We generated a number of funny Christmas "songs" and had surprising difficulty in getting Santa to crash, although a few very elliptical orbits were generated.
+
+Good food including vegan and gluten free options; Kransky Sausages Wrapped in Parmesan Herb Pastry with Tomato Relish, Lentil Bolognese Pie with Cornbread Crust, White chocolate and Berry Cheesecake Slice, Spiced Ginger Loaf, Raw Snickers Bar Slice, Tangy Lemon Delicious Bar, Almond Apple Dessert Slice, and Golden Anzac biscuits, meant there was nothing left after the event.
+
+Oh and plenty of classic club sandwiches with ample coffee and tea.
+
+This was a chance to connect with other staff and students around the university who have a shared interest in coding.  Many of the team working behind the scenes of SNAP attended, and could chat about SNAP. 
+
+![](snap_tea_santa_orbit_2024.jpeg){height=500 fig-align="center"}
+
