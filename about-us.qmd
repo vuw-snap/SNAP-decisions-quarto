@@ -82,9 +82,9 @@ Lecturer in Astrophysics in the School of Chemical and Physical Sciences
 Head of School in the School of Health
 :::
 :::{.g-col-2}
-![ ](images/com-Steven-Skalicky.jpg){fig-align="center" width="90%"}
+![ ](images/com-Stephen-Skalicky.jpg){fig-align="center" width="90%"}
 <div class="make_space_10"></div>
-<span class="badge bg-primary" style="font-size: 1.3vw">Steven Skalicky</span>
+<span class="badge bg-primary" style="font-size: 1.3vw">Stephen Skalicky</span>
 <div class="make_space_10"></div>
 Senior Lecturer in the School of Linguistics and Applied Language Studies 
 :::
