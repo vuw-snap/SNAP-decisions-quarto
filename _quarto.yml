@@ -1,11 +1,19 @@
 project:
   type: website
   output-dir: ../SNAP-decisions
+  resources: 
+    - CODE_OF_CONDUCT.md
+    - README.md
+  # TODO: add licence file here and contributers file
+  render:
+    - "*.qmd"
+  #  - "!README.md" # automatically never rendered
+  #  - "!CODE_OF_CONDUCT.md" # don't need this with *.qmd specified
 
 website:
   title: snap-decisions
   back-to-top-navigation: true
-  page-footer: "© 2024 SNAP. Licensed under CC BY NC ND 4.0" 
+  page-footer: "© 2025 SNAP. Licensed under CC BY NC ND 4.0" 
 
   navbar:
     background: dark    
