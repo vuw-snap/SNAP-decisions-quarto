@@ -7,6 +7,7 @@ The VUW-SNAP website is managed via two repositories:
  - **github.com/vuw-snap/SNAP-decisions** <br/>
    This repository contains the compiled html for the website. This repository should never be edited directly. The html is compiled from the source files using quarto and then pushed (separately) to update the website.
 
+We use Quarto to build the website from qmd (markdown) files. 
 Before editing the source files you may wish to familiarise yourself with the basics of Quarto, see: <br/>
 https://quarto.org/docs/get-started/hello/text-editor.html <br/>
 https://quarto.org/docs/guide/
@@ -29,6 +30,8 @@ If this is your first time editing the website, you'll want to do the following:
    git clone https://github.com/vuw-snap/SNAP-decisions-quarto.git
 
 If you've edited the website before (i.e. already have local copies of these repositories), do a "git pull --rebase" in each directory.
+If it has been a while since you've used Quarto, you might like to first update to the most recent version. 
+Doing so should help minimise the number of changes that are made to older html files in the repository.
 
 Then, proceed to edit the website and render/preview your changes:
    
@@ -58,14 +61,14 @@ For example:
    git push https://github.com/vuw-snap/SNAP-decisions.git main <br/>
    Note: Again, you may prefer to push via ssh, make sure to setup a key and change the git remote setting from https to ssh.
    
-The website will automatically update itself soon after you push to SNAP-decision.git
+The website will automatically update soon after you push changes to SNAP-decision.git
 
 ## Adding a blog post to the website
 
-Most changes to the website will involve adding a blog post.
-This involves adding a new (suitably names) sub-directory to the "posts/" directory.
-Within the new sub-directory create an index.qmd and fill it out with the blog post content 
+The most common change to the website will involve adding/editing a blog post.
+For a new blog post you'll need to create a new (suitably named) sub-directory to the "posts/" directory.
+Within the new sub-directory, create an index.qmd file and fill it out with the blog post content 
 (you may wish to start by copying the index.qmd from an existing blog post).
-If you are including an image or two (which is encouraged!) pop them in the subdirectory also and make sure the index.qmd refers to them.
-Once you are done you can compile, check and publish the webpages (see above).
+If you are including an image or two (which is encouraged!) copy them into the blog sub-directory and make sure the index.qmd refers to them.
+Once you are done you can compile/render the html, preview/check and publish the webpages (see above).
 If you are uncomfortable doing this last step, one of the regular website maintainers/contributors can help or do this for you!
