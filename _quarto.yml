@@ -24,9 +24,9 @@ website:
     left:
       - text: Home
         file: index.qmd
-      - text: About-us
+      - text: "About Us"
         file: about-us.qmd
-      - text: Contact-us
+      - text: "Contact Us"
         file: contacts.qmd
       - text: Blog
         file: blog.qmd
