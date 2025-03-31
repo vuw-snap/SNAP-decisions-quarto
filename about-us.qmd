@@ -112,8 +112,18 @@ Systems Administrator, Digital Solutions
 <div class="make_space_10"></div>
 <span class="badge bg-primary" style="font-size: 1.3vw">Richard Littauer</span>
 <div class="make_space_10"></div>
-Student in the School of Engineering and Computer Science
+PhD Candidate in the School of Engineering and Computer Science
 :::
+
+::: {.g-col-2}
+![ ](images/com-Angela-Xue.png){fig-align="center" width="90%"}
+<div class="make_space_10"></div>
+<span class="badge bg-primary" style="font-size: 1.3vw">Angela Xue</span>
+<div class="make_space_10"></div>
+PhD Candidate in the School of Chemical and Physical Sciences
+:::
+
+
 
 :::
 
