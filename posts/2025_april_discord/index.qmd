@@ -8,6 +8,8 @@ navbar:
 categories:
 ---
 
+![](SNAP+discord2.png){height=200 fig-align="center"}
+
 <h1>SNAP Discord Channel</h1>
 
 One of the reasons SNAP exists is to provide a space for early career researchers, post-grads, and staff to share their tools and their tech questions with each other. After the last postgrad workshop offered by <a href="https://www.linkedin.com/in/daniel-wrench-b475aa1a4/">Daniel Wrench</a>, some of the attendees decided it would be a good idea to get a SNAP Discord going, specifically for students but open to everyone, to talk about tech needs and what they're working on. So, we set one up! 
