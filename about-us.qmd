@@ -16,10 +16,10 @@ format:
 # make sure you have a blank line before the .grid statement
 ---
 
-Current Members
+
+<h2>Current Members</h2>
 
 ::: {.grid}
-
 ::: {.g-col-1}
 :::
 
@@ -100,7 +100,34 @@ Systems Administrator, Digital Solutions
 
 :::
 
-Retired Members
+<h2>Student Representatives</h2>
+
+::: {.grid}
+
+::: {.g-col-1}
+:::
+
+::: {.g-col-2}
+![ ](images/com-Richard-Littauer.jpg){fig-align="center" width="90%"}
+<div class="make_space_10"></div>
+<span class="badge bg-primary" style="font-size: 1.3vw">Richard Littauer</span>
+<div class="make_space_10"></div>
+PhD Candidate in the School of Engineering and Computer Science
+:::
+
+::: {.g-col-2}
+![ ](images/com-Angela-Xue.png){fig-align="center" width="90%"}
+<div class="make_space_10"></div>
+<span class="badge bg-primary" style="font-size: 1.3vw">Angela Xue</span>
+<div class="make_space_10"></div>
+PhD Candidate in the School of Chemical and Physical Sciences
+:::
+
+
+
+:::
+
+<h2>Retired Members</h2>
 
 :::{.grid}
 
