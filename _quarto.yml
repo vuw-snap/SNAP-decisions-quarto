@@ -4,7 +4,8 @@ project:
   resources: 
     - CODE_OF_CONDUCT.md
     - README.md
-  # TODO: add licence file here and contributers file
+    - CONTRIBUTING.md
+    - LICENSE
   render:
     - "*.qmd"
   #  - "!README.md" # automatically never rendered
