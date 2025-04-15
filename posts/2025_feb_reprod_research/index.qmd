@@ -1,0 +1,23 @@
+---
+title: "Reproducible Research"
+author: "Daniel Wrench"
+date: "20 02 2025"
+sidebar: false
+navbar:
+  background: light
+categories:
+---
+
+![](image2.png){height=300 fig-align="center"} 
+
+
+<h1>Introduction to Reproducible Research</h1>
+
+On 20th February, Daniel Wrench from the School of Chemical and Physical Sciences led a lively workshop on best practises for reproducible research, assisted by Richard Littauer from Engineering and Computer Science. The workshop was attended by about 25 postgraduate students from across science and engineering, even linguistics!
+
+The topics covered included good structure for a code repository, how to set up that repository on GitHub, and using a virtual environment. These are all key to fulfilling the three tenets of reproducible research: collaboration, longevity, and transparency. All very good things if you want to become a useful member of the scientific community! (Not to mention saving your time and sanity if you happen to accidentally mess up your code.) 
+
+The GitHub repo used for the workshop can be accessed here: https://github.com/daniel-wrench/snap-research-template. The slides can be viewed in the doc/ folder.
+
+![](image1.png){height=400 fig-align="center"}
+
