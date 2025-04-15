@@ -32,6 +32,7 @@ If this is your first time editing the website, you'll want to do the following:
 If you've edited the website before (i.e. already have local copies of these repositories), do a "git pull --rebase" in each directory.
 If it has been a while since you've used Quarto, you might like to first update to the most recent version. 
 Doing so should help minimise the number of changes that are made to older html files in the repository.
+Download and install from https://quarto.org/docs/download/
 
 Then, proceed to edit the website and render/preview your changes:
    
