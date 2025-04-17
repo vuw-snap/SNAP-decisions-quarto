@@ -8,7 +8,7 @@ navbar:
 categories:
 ---
 
-![](SNAP+discord2.png){height=200 fig-align="center"}
+![](SNAP+discord2.png){height=300 fig-align="center"}
 
 <h1>SNAP Discord Channel</h1>
 
