@@ -1,0 +1,60 @@
+---
+title: "Annual SNAP Workshop"
+author: "Patricia Hunt"
+date: "18 04 2025"
+sidebar: false
+navbar:
+  background: light
+categories:
+---
+
+![](focus_groups_1_sm.png){height=400 fig-align="center"}
+
+
+<h1>Annual SNAP Workshop</h1>
+
+On 16th April, we had our annual SNAP workshop in LBLT118 and LB106 </p>
+<p>The general purpose of the workshop is to bring the community together to get to know each other, spark interdisciplinary dialogue, and share expertise in the large variety of ways we use software and modelling tools throughout the university.</p>
+
+The workshop was open to all staff and postgraduate students. The presentations are intended to be about sharing novel ways in which we use modelling/software/technology tools in our research/teaching, especially if those tools which may be useful to others throughout the university. 
+
+The workshop was a great success with key people from the Digital Solutions Team talking about our high performance compute (Raapoi), digital storage (Solar), and moving information around (Globus).  We had insights into R, using Rcpp and R commander from academics.  PhD students contributed with a story about a journey in organising code, another on keeping code clean and a talk on Bayesian analysis.  Our final talk was about making it easier to code partial differential equations with FEniCS.  Over the day we had 35 people attend.
+
+![](brendan_dyn_sm.png){height=400 style="float:right;margin:5px;"}
+
+In the afternoon we moved to focus groups and a brainstorm session. People discussed the visibility of snap and how to improve this, and spent time identify and refining ideas for activities and events that would benefit the SNAP community over the next year.  There was also time to fill out a general survey about software tools and associated support.  We used a padlet for the brainstorming sessions which can be found at [snap-padlet](https://padlet.com/snap4/snap-april-2025-workshop-s6zb3zfar8gg0th0).  This part of the day was so successful we ran 30min over time!  Many thanks to all those who contributed.</p>
+
+Presentations were roughly 12 minutes each, with additional time for questions and discussion.
+<br>09:30–10:00: Morning tea and mingling…
+<br>10:00–10:20: Welcome and a brief update on SNAP 
+<br>10:20–12:00: Presentation session 1 
+<br>12:00–13:00: Lunch + networking break 
+<br>13:00–14:40: Presentation session 2 
+<br>14:40–15:00: Tools survey, brainstorming, discussion and wrap-up
+
+Talks included:
+<ul>
+	<li>David Alderman (Digital Solutions) and Rohit Duggal (School of Engineering and Computer Science) Rāpoi! Part supercomputer, part submarine.</li>
+
+	<li> Louise McMillan (School of Mathematics and Statistics) Speeding up your R code via profiling and Rcpp</li>
+
+	<li>Steve Bowe (School of Health) What is R Commander?</li>
+
+	<li>Nick Bray (Digital Solutions) SoLAR: Shining Light on Our Research Storage</li>
+
+	<li>Stephen Marsland (School of Mathematics and Statistics) Lazy man's parallelism in an evolutionary game theory question</li>
+
+	<li>Yuan Tian (School of Engineering and Computer Science) Manage your configuration with YAML file instead of hard code: A Python tutorial with Hydra library</li>
+
+	<li>Mark Bishop (School of Chemical and Physical Sciences) Using Bayesian analysis to constrain free parameters in a modelled system of ODEs</li>
+
+	<li>Steven Jones (Digital Solutions) Globus: A secure, robust fire and forget file transfer system</li>
+
+	<li>Richard Littauer (School of Engineering and Computer Science) Refine it! Cleaning your data with OpenRefine</li>
+
+	<li>Brendan Harding (School of Mathematics and Statistics) Solving partial differential equations with FEniCS</li>
+</ul>
+
+![](padlet.png){height=400 fig-align="center"}
+
+
