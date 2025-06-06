@@ -1,0 +1,24 @@
+---
+title: "SNAP Coffee May"
+subtitle: "SNAP Coffee: Join us to meet other SNAPites"
+author: "Patricia Hunt"
+date: "21 05 2025"
+sidebar: false
+navbar:
+  background: light
+categories: 
+  - social-event
+---
+
+![](snap_coffee_may_2025s.png){height=400 fig-align="center"}
+
+<h1>SNAP's bimonthley coffee</h1>
+
+Come enjoy a coffee with others who use simulation, numerics, analytics and programming as part of their research.
+10.15-11.00, Milk and Honey, Kelburn Campus
+
+Our social coffee meetings have been a great success with 20+ people at each event.  We had a great PG student turn-out this time, and a good discussion about the success of our first student workshop on Latex, and things to think about improving for next time.
+
+Drop in to chat with other SNAP members and meet some of the SNAP champions who also form the SNAP planing committee.
+
+![](snap_coffee1over.jpeg){height=250 fig-align="center"}
