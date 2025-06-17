@@ -1,0 +1,24 @@
+---
+title: "May LaTeX Workshop"
+author: "Muhammad"
+date: "15 05 2025"
+sidebar: false
+navbar:
+  background: light
+categories:
+  workshop
+
+---
+
+![](latex.png){height=250 fig-align="center"}
+
+<h1>Introduction to LaTeX Workshop</h1>
+
+Angela Xue and Richard Littauer, postgraduate students from the School of Chemical and Physical Sciences and the School of Engineering and Computer Science respectively, recently led a hands-on workshop introducing the powerful typesetting system LaTeX.
+Held on May 15th, the workshop was attended by over a dozen undergraduate and postgraduate students from a wide range of disciplines, including economics, business, and the sciences.
+The session covered essential LaTeX features that are especially useful for both early-career and experienced academics. Participants learned how to create professional documents with labelled equations, section referencing, organised citations, custom tables, and more. The workshop also introduced attendees to the use of templates for writing theses or preparing manuscripts for journal submission.
+To support continued learning beyond the session, Angela and Richard prepared a set of resources—including a slideshow and a LaTeX example document—which are available [here](LaTeX_Workshop.zip).
+
+
+![](latex_workshop.png){height=500 fig-align="center"}
+
