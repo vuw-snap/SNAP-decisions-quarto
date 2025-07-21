@@ -1,0 +1,26 @@
+---
+title: "July Shell Workshop"
+author: "Muhammad Hashmi"
+date: "17 07 2025"
+sidebar: false
+navbar:
+  background: light
+categories:
+  workshop
+
+---
+
+![](shell.jpg){height=250 fig-align="center"}
+
+<h1>SNAP Workshop on using Shell</h1>
+
+Emily O'Riordan, a lecturer in the School of Engineering and Computer Science, and Richard Littauer, a postgraduate student in the same school, recently led a two-hour hands-on workshop introducing students to the basics of the Unix Shell and BASH (Bourne Again SHell). Angela Xue, a postgraduate student from the School of Chemical and Physical Sciences, supported the session as a helper.
+Organized as part of the SNAP series, the workshop drew a small but enthusiastic group of students eager to improve their command-line skills—a fundamental toolset for programming, data analysis, and scientific computing.
+Following the Software Carpentry curriculum, the session covered key topics such as navigating the file system with the terminal, creating and deleting files and directories, chaining commands with pipes, and understanding command history and tab completion. The interactive format encouraged participants to experiment and ask questions, helping them build confidence in using the shell in real-world workflows.
+Participants left with practical skills and a clearer understanding of how the terminal can be used to streamline research and development tasks.
+For anyone who missed the workshop or would like to explore further, the full lesson materials are freely available via The Carpentries: https://swcarpentry.github.io/shell-novice/
+
+
+
+![](shell_workshop.jpg){height=500 fig-align="center"}
+

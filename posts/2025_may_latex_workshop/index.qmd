@@ -1,6 +1,6 @@
 ---
 title: "May LaTeX Workshop"
-author: "Muhammad"
+author: "Muhammad Hashmi"
 date: "15 05 2025"
 sidebar: false
 navbar:
