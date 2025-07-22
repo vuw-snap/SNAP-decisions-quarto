@@ -10,7 +10,7 @@ categories:
 
 ---
 
-![](shell.jpg){height=250 fig-align="center"}
+![](shell.png){height=250 fig-align="center"}
 
 <h1>SNAP Workshop on using Shell</h1>
 

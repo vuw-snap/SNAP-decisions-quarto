@@ -1,0 +1,22 @@
+---
+title: "July Globus Endpoint Workshop"
+author: "Muhammad Hashmi"
+date: "22 07 2025"
+sidebar: false
+navbar:
+  background: light
+categories:
+  workshop
+
+---
+
+![](globus_workshop.jpg){height=250 fig-align="center"}
+
+<h1>SNAP Workshop on Globus Endpoint</h1>
+
+On July 22nd, SNAP hosted a hands-on workshop on using Globus Endpoint, led by Steven Jones from the Digital Solutions team at Victoria University of Wellington. The session introduced participants to the basics of Globus, a platform for fast, reliable, and secure data transfer across systems. Attendees from various disciplines learned how to set up their own computers as Globus endpoints and how to share data between them efficiently. The interactive format allowed participants to explore practical use cases and ask questions about integrating Globus into their research workflows.
+
+
+
+![](globus_workshop_july.jpg){height=500 fig-align="center"}
+

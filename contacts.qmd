@@ -25,6 +25,7 @@ format:
 ::: {.g-col-7}
 
 <p style="font-size:24px">Email SNAP at <a href="mailto:snap@vuw.ac.nz">snap@vuw.ac.nz</a>.</p>
+<p style="font-size:24px">Students can email SNAP at <a href="mailto:snap-students@vuw.ac.nz">snap-students@vuw.ac.nz</a>.</p>
 
 <p>For issues with the website, go to <a href="https://github.com/vuw-snap/SNAP-decisions-quarto">our GitHub repository</a>.</p>
 
