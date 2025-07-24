@@ -89,6 +89,13 @@ Head of School in the School of Health
 Senior Lecturer in the School of Linguistics and Applied Language Studies 
 :::
 :::{.g-col-2}
+![ ](images/com-emily-riordan.jpg){fig-align="center" width="90%"}
+<div class="make_space_10"></div>
+<span class="badge bg-primary" style="font-size: 1.3vw">Emily O'Riordan</span>
+<div class="make_space_10"></div>
+Lecturer in Artificial Intelligence in the School of Engineering and Computer Science
+:::
+:::{.g-col-2}
 ![ ](images/com-David-Alderman.jpg){fig-align="center" width="90%"}
 <div class="make_space_10"></div>
 <span class="badge bg-primary" style="font-size: 1.3vw">David Alderman</span>
@@ -96,6 +103,24 @@ Senior Lecturer in the School of Linguistics and Applied Language Studies
 Systems Administrator, Digital Solutions 
 :::
 ::: {.g-col-3}
+:::
+
+:::
+
+<h2>PostDoc Representatives</h2>
+
+::: {.grid}
+
+::: {.g-col-1}
+:::
+
+::: {.g-col-2}
+![ ](images/com-Muhammad-Hashmi.jpg){fig-align="center" width="90%"}
+<div class="make_space_10"></div>
+<span class="badge bg-primary" style="font-size: 1.3vw">Muhammad Ali Hashmi</span>
+<div class="make_space_10"></div>
+Research Fellow in the School of Chemical and Physical Sciences
+
 :::
 
 :::
@@ -122,8 +147,6 @@ PhD Candidate in the School of Engineering and Computer Science
 <div class="make_space_10"></div>
 PhD Candidate in the School of Chemical and Physical Sciences
 :::
-
-
 
 :::
 
