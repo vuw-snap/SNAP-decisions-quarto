@@ -1,0 +1,25 @@
+---
+title: "August Python Workshop"
+author: "Muhammad Hashmi"
+date: "21 08 2025"
+sidebar: false
+navbar:
+  background: light
+categories:
+  workshop
+
+---
+
+![](python1.jpg){height=250 fig-align="center"}
+
+<h1>SNAP Workshop on Introduction to Python</h1>
+
+Angela Xue from the School of Chemical and Physical Sciences led the workshop on Introduction to Python. About 15 students and staff from various disciplines, including mathematics, chemistry, and social studies, attended.
+Python is a powerful tool capable of performing a wide range of analyses on large data sets, making it invaluable for many researchers. It is a high-level language with a clear and readable syntax, which makes it intuitive. The workshop, designed for those with no prior programming experience, guided students through basic programming concepts and how to get started with Python. Attendees learned how to define and work with variables, create loops, define functions, and import essential libraries for analysis and plotting—helping them get started with more complex analyses in their own research.
+Angela provided resources that can be accessed [here](snap-intro-to-python.zip).
+
+
+
+
+![](python_workshop.jpg){height=500 fig-align="center"}
+
