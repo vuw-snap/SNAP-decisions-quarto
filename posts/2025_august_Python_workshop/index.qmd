@@ -10,7 +10,7 @@ categories:
 
 ---
 
-![](python1.jpg){height=250 fig-align="center"}
+![](python1.png){height=250 fig-align="center"}
 
 <h1>SNAP Workshop on Introduction to Python</h1>
 
