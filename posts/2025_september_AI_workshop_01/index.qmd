@@ -1,0 +1,29 @@
+---
+title: "September AI Workshop - Session 01"
+author: "Muhammad Hashmi"
+date: "02 09 2025"
+sidebar: false
+navbar:
+  background: light
+categories:
+  workshop
+
+---
+
+![](AI_Workshop_banner.jpg){height=250 fig-align="center"}
+
+<h1>SNAP Workshop on Introduction to AI and ML - Session 01</h1>
+
+On 2 September 2025, SNAP hosted the first session of its Learning AI workshop, led by Dr. Emily O’Riordan. The event brought together staff, PostDocs, and PhD students from a wide range of disciplines, all keen to explore how Artificial Intelligence (AI) and Machine Learning (ML) can support research and academic workflows.
+The session began with an introduction to ML concepts and a discussion of where AI fits into modern research practices. Dr. Emily then guided participants through two core families of models: regression and classification. Using Google Colab, attendees worked hands-on with real datasets to see these models in action.
+For regression, participants explored Anscombe’s quartet—a famous set of datasets often used to demonstrate the importance of visualising data. They built and evaluated linear regression models using scikit-learn and extended these into polynomial regression to see how model choice can impact error rates and predictions. Visualisations in Python, using matplotlib and seaborn, helped illustrate both model fit and residual error.
+The workshop then shifted to classification models. Using the popular Palmer penguins dataset, participants learned how to split data into training and test sets, ensuring balanced representation of classes. A decision tree classifier was trained to predict species based on features such as bill length and body mass. Attendees experimented with hyperparameters (like maximum tree depth) to see how tuning affects accuracy and decision boundaries. Visualisations of the trees and classification spaces provided intuitive insight into model behaviour.
+The interactive format made the session accessible to newcomers while still offering depth for those with prior coding experience. Participants left with a stronger understanding of how ML models are structured, trained, and evaluated—and with practical skills to start applying AI methods to their own research projects.
+
+Emily provided the presentation that can be accessed [here](AI_workshop_day1.pdf).
+
+
+
+
+![](AI_Workshop_day-01.jpg){height=500 fig-align="center"}
+
