@@ -1,0 +1,25 @@
+---
+title: "September AI Workshop - Session 02"
+author: "Muhammad Hashmi"
+date: "09 09 2025"
+sidebar: false
+navbar:
+  background: light
+categories:
+  workshop
+
+---
+
+![](AI_Workshop2_banner.png){height=250 fig-align="center"}
+
+<h1>SNAP Workshop on Introduction to AI and ML - Session 02</h1>
+
+On September 9, 2025, SNAP held part two of the Learning AI workshop, led by Dr. Emily O’Riordan. Building on part one’s focus on supervised learning, this session began with a practical discussion of AI ethics in society and research, covering bias, consent, transparency, data, and reproducibility, before moving into unsupervised learning. Participants compared k-means and DBSCAN, observing how k-means suits roughly spherical clusters (and is sensitive to the choice of k) while DBSCAN can find arbitrarily shaped clusters and handle noise and outliers (with performance influenced by hyperparameters). They then applied principal component analysis (PCA) to reduce dimensionality, interpret explained variance to select components, and create clearer visualizations that can reduce noise. To conclude, attendees trained their first neural network using scikit-learn’s MLPClassifier to recognize handwritten digits! 
+The workshop combined lecture-style content with interactive coding – the lectures and Python Jupyter notebooks are available [here](https://vuw-snap.github.io/SNAP-decisions/posts/2025_september_AI_workshop_01/) and [here](https://colab.research.google.com/drive/1DAfd-aWFWLCljmXMygILPk-wsvWvxMZU#scrollTo=Qj1rCtbikuar).
+
+
+
+
+
+![](AI_Workshop_day-02.jpg){height=500 fig-align="center"}
+
