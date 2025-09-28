@@ -1,0 +1,25 @@
+---
+title: "September Python Workshop"
+author: "Muhammad Hashmi"
+date: "18 09 2025"
+sidebar: false
+navbar:
+  background: light
+categories:
+  workshop
+
+---
+
+![](python.png){height=250 fig-align="center"}
+
+<h1>SNAP Workshop - Python for Intermediates</h1>
+
+SNAP students chapter hosted a workshop on September 18th titled "Python for Intermediates," following the "Python for Beginners" workshop held the previous month. Attendees learned how to create their own virtual environments tailored for each of their projects, develop and import their own modules, and handle large data files, among other skills. These abilities are essential for researchers to produce reliable and versatile code that can be reused and shared. The workshop was hosted by Angela Xue and her assistant Andrea Irwin, both PhD candidates in SCPS, along with a few other PhD candidates.
+The slides used throughout the workshop are available [here](Python_for_Intermediates.pdf).
+
+
+
+
+
+![](python_workshop.png){height=500 fig-align="center"}
+
