@@ -1,0 +1,28 @@
+---
+title: "October Programmable Typesetting Workshop"
+author: "Muhammad Hashmi"
+date: "17 10 2025"
+sidebar: false
+navbar:
+  background: light
+categories:
+  workshop
+
+---
+
+![](typst_banner.png){height=250 fig-align="center"}
+
+<h1>SNAP Workshop on Typography on a Managed Pathway</h1>
+
+On October 17, 2025, SNAP hosted a creative and hands-on workshop titled “Typography on a Managed Pathway,” led by Dr. Baptiste Auguie, Senior Lecturer in Physics at the School of Chemical and Physical Sciences, Victoria University of Wellington.
+In this session, he explored the art and automation of academic typesetting using plain-text tools like Typst and Quarto. Participants learned how these modern platforms can assist researchers and educators in creating dynamic, professional documents—such as posters, presentations, assessments, course booklets, and calendars—while keeping full control over layout and reproducibility.
+Baptiste showcased a variety of examples, such as course posters, exams, resumes, lab scripts, and research posters, illustrating how programmable typesetting can boost efficiency and creativity. The session also demonstrated how users of LaTeX, Markdown, or Word can transition easily into these tools and incorporate them into their existing academic workflows.
+The workshop concluded with a hands-on exercise where participants created their own course information document, experimenting with Typst’s intuitive syntax and live rendering.
+
+You can explore Baptiste’s example documents and resources [here](https://gist.github.com/baptiste/d34e1470fb9df6f23a8728957d4d7f8a).
+
+
+
+
+![](Typography_workshop.jpg){height=500 fig-align="center"}
+
