@@ -12,7 +12,7 @@ categories:
 
 ![](snap_coffee_sep.jpg){height=500 fig-align="center"}
 
-<h1>SNAP's monthley coffee</h1>
+<h1>SNAP's monthly coffee</h1>
 
 Join us for coffee with others who use simulation, numerics, analytics, and programming in their research, every third Wednesday of the month from 10:30 to 11:00 at Milk and Honey, Kelburn Campus.
 
