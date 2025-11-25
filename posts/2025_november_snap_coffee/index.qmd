@@ -1,0 +1,23 @@
+---
+title: "SNAP Coffee November"
+subtitle: "SNAP Coffee: Join us to meet other SNAPites"
+author: "Muhammad Hashmi"
+date: "19 11 2025"
+sidebar: false
+navbar:
+  background: light
+categories: 
+  - social-event
+---
+
+![](snap_coffee_nov25.jpg){height=500 fig-align="center"}
+
+<h1>SNAP's monthly coffee</h1>
+
+Join us for coffee with others who use simulation, numerics, analytics, and programming in their research, every third Wednesday of the month from 10:30 to 11:00 at Milk and Honey, Kelburn Campus.
+
+Our social coffee meetings have been a great success with about 10+ people at each event.  We had a reasonable turn-out this time, and a good discussion about different topics including Raapoi, its network, and storage etc.
+
+Drop in to chat with other SNAP members and meet some of the SNAP champions who also form the SNAP planing committee.
+
+![](snap_coffee1over.jpeg){height=250 fig-align="center"}
