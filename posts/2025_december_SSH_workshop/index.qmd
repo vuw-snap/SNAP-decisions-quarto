@@ -1,0 +1,29 @@
+---
+title: "December Intermediate SSH Workshop"
+author: "Muhammad Hashmi"
+date: "04 12 2025"
+sidebar: false
+navbar:
+  background: light
+categories:
+  workshop
+
+---
+
+![](openssh.gif){height=250 fig-align="center"}
+
+<h1>SNAP Workshop: Intermediate SSH</h1>
+
+On 4 December 2025, SNAP hosted an Intermediate SSH Workshop led by Dr. James Quilty, aimed at researchers and students who regularly use Secure Shell (SSH) for remote access and want to work more efficiently on the command line.
+SSH is a core tool for anyone connecting to remote servers or HPC systems, but its terminology and configuration options can sometimes feel obscure. Dr. Quilty provided a clear and practical overview of key concepts, helping participants deepen their understanding of SSH fundamentals and streamline their everyday workflows.
+The session covered essential topics including public key authentication, SSH key generation and management, and how to customise SSH behaviour using the ~/.ssh/config file. Attendees also received guidance on where to explore more advanced features—from agent forwarding to multiplexing—to further improve the performance and convenience of their remote connections.
+Participants brought their own laptops and followed hands-on exercises throughout the afternoon, gaining practical experience and leaving with clearer, more confident workflows for remote access. The workshop offered a valuable opportunity for postgraduate students, staff, and computational researchers to strengthen a skillset that underpins a wide range of research-computing tasks.
+
+
+You can explore the provided notes [here](Intermediate-SSH-Notes.pdf).
+
+
+
+
+![](SSH_Workshop.jpg){height=500 fig-align="center"}
+
