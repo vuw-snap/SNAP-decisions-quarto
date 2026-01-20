@@ -1,0 +1,29 @@
+---
+title: "SNAP Christmas Drinks 2025"
+author: "Muhammad Hashmi"
+date: "11 12 2025"
+sidebar: false
+navbar:
+  background: light
+categories:
+  workshop
+
+---
+
+![](christmas_pic2.jpg){height=250 fig-align="center"}
+
+<h1>SNAP Christmas Drinks 2025</h1>
+
+SNAP wrapped up the year with a casual Christmas gathering on December 11, 2025, bringing together community members for an informal end-of-year get-together. The event offered a nice chance for staff, researchers, and students to step away from their screens and connect in person before the summer break.
+
+Over food and drinks, attendees shared updates on their research, reflected on the year’s activities, and exchanged plans for the upcoming holiday period. Along with the festive atmosphere, the gathering also sparked several productive conversations, including discussions about high-performance computing (HPC) resources, access and management challenges, and how shared infrastructure can better support research across disciplines.
+
+Like many SNAP events, the mix of social and technical discussion showcased the strength of the community and the importance of creating spaces where informal conversations can lead to meaningful ideas and collaboration. The Christmas gathering was a fitting way to close out a busy year of workshops, meet-ups, and shared learning.
+
+SNAP looks forward to building on these conversations in the upcoming year and continuing to support a lively, collaborative research computing community at the University..
+
+
+
+
+![](christmas_pic1.jpg){height=500 fig-align="center"}
+
