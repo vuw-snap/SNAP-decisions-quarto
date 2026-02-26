@@ -47,7 +47,7 @@ Research Fellow in the Antarctic Research Centre
 ::: {.g-col-2}
 ![ ](images/com-Rohit-Duggal.jpg){fig-align="center" width="90%"}
 <div class="make_space_10"></div>
-<span class="badge bg-primary" style="font-size: 1.3vw">Rohit Duggal</span>
+<span class="badge bg-primary" style="font-size: 1.3vw">Position Vacant</span>
 <div class="make_space_10"></div>
 Rāpoi - Research Computing Specialist 
 :::
@@ -133,17 +133,17 @@ Research Fellow in the School of Chemical and Physical Sciences
 :::
 
 ::: {.g-col-2}
-![ ](images/com-Richard-Littauer.jpg){fig-align="center" width="90%"}
+![ ](images/com-Angela-Xue.jpg){fig-align="center" width="90%"}
 <div class="make_space_10"></div>
-<span class="badge bg-primary" style="font-size: 1.3vw">Richard Littauer</span>
+<span class="badge bg-primary" style="font-size: 1.3vw">Angela Xue</span>
 <div class="make_space_10"></div>
-PhD Candidate in the School of Engineering and Computer Science
+PhD Candidate in the School of Chemical and Physical Sciences
 :::
 
 ::: {.g-col-2}
-![ ](images/com-Angela-Xue.png){fig-align="center" width="90%"}
+![ ](images/com-qurat_ua_ain.jpg){fig-align="center" width="90%"}
 <div class="make_space_10"></div>
-<span class="badge bg-primary" style="font-size: 1.3vw">Angela Xue</span>
+<span class="badge bg-primary" style="font-size: 1.3vw">Qurat Ul Ain</span>
 <div class="make_space_10"></div>
 PhD Candidate in the School of Chemical and Physical Sciences
 :::
