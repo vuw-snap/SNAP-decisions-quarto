@@ -1,0 +1,27 @@
+---
+title: "Upcoming Events"
+background: light
+page-layout: full
+title-block-banner: "#28553A"
+title-block-banner-color: white
+
+format:
+  html:
+    theme: spacelab
+    css: styles.css
+
+listing:
+  type: grid
+  contents: events 
+  sort: "date desc"
+  sort-ui: false
+  filter-ui: false
+  
+---
+<style>
+.quarto-title-block .quarto-title-banner {
+  padding-bottom: 24px; # padding adjustment so logo is not cut-off
+}
+</style>
+
+

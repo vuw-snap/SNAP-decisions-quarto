@@ -1,0 +1,36 @@
+---
+title: "SNAP Workshop: Version Control"
+author: "Muhammad Hashmi"
+date: "01 04 2026"
+sidebar: false
+navbar:
+  background: light
+categories:
+  - workshop
+---
+
+:::: {.columns}
+
+::: {.column width="55%"}
+# SNAP Workshop: Version Control
+
+SNAP is hosting an Introductory Workshop on Version Control. 
+
+More details to follow. 
+
+
+
+📅 **When:** TBC  
+📍 **Where:** TBC  
+📝 [Register here](https://vuw-snap.github.io/SNAP-decisions/)
+:::
+
+::: {.column width="5%"}
+<!-- This is just a spacer column -->
+:::
+
+::: {.column width="40%"}
+![](placeholder.jpg){fig-align="center"}
+:::
+
+::::

@@ -4,17 +4,32 @@ subtitle: "VUW-hub for Simulation, Numerics, Analytics and Programming"
 page-layout: full
 title-block-banner: "#28553A"
 title-block-banner-color: white
-  
+
 format: 
   html:
     theme: spacelab
     css: styles.css
+
+listing:
+  - id: latest-blog-posts
+    contents: posts
+    type: grid
+    sort: "date desc"
+    max-items: 3
+    filter-ui: false
+    sort-ui: false
+  - id: upcoming-events-list
+    contents: events
+    type: grid
+    sort: "date desc"
+    max-items: 3
+    filter-ui: false
+    sort-ui: false
 ---
 
 ::: {.row}
 ::: {.grid}
 :::{.g-col-7}
-
 The 21st century has seen powerful advances in computer hardware and software leading to a rapid increase in the exploitation of computation within the natural sciences, social sciences, and engineering disciplines. 
 
 Significant advances have brought numerical modelling, data analysis and simulation disciplines to the forefront. There has  been a large ground swell in the use of programming and scripting across all disciplines. 
@@ -26,29 +41,26 @@ The computational and data literacy skill sets required by modern academics and 
 SNAP has been set-up to connect, support and enable researchers across diverse disciplines, particularly those who have a primary research domain outside of computing.  
 
 >Our aim is to facilitate better research undertaken more productively, efficiently, and expansively. 
-
 :::
 ::: {.g-col-5}
-
 ![ ](images/snap_logo_large.png){fig-align="center" width="90%"}
 
 ![ ](images/dimethoxy_imid_movie.gif){fig-align="center" width="90%"}
 
 ![ ](images/snap_coffee_dec_2022.jpeg){fig-align="center" width="90%"}
-
 :::
 :::
 :::
 
+#### Check our [Upcoming Events](upcoming-events.html) for the upcoming workshops.
+
+::: {#upcoming-events-list}
+:::
+
+---
 
 #### Check our [blog](blog.html) for the latest activities.
 
----
-listing:
-  type: grid
-  contents: posts
-  sort: "date desc"
-  sort-ui: false
-  filter-ui: false
-  max-items: 3
----
+::: {#latest-blog-posts}
+:::
+

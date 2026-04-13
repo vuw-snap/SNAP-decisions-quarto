@@ -27,10 +27,12 @@ website:
         file: index.qmd
       - text: "About Us"
         file: about-us.qmd
-      - text: "Contact Us"
-        file: contacts.qmd
       - text: Blog
         file: blog.qmd
+      - text: Upcoming Events
+        file: upcoming-events.qmd
+      - text: "Contact Us"
+        file: contacts.qmd
 #      - text: SNAP-related-jobs
 #        file: jobs.qmd
 #      - file: events.qmd
@@ -53,10 +55,12 @@ website:
           file: index.qmd
         - text: About us
           file: about-us.qmd
-        - text: Contact us
-          file: contacts.qmd
+        - text: Upcoming Events
+          file: upcoming-events.qmd
         - text: Blog
           file: blog.qmd
+        - text: Contact us
+          file: contacts.qmd
 #        - text: Jobs
 #          file: jobs.qmd
 #        - events.qmd

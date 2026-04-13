@@ -44,19 +44,20 @@ Lecturer in the Scool of Computational Mathematics and Statistics
 <div class="make_space_10"></div>
 Research Fellow in the Antarctic Research Centre
 :::
-::: {.g-col-2}
-![ ](images/com-Rohit-Duggal.jpg){fig-align="center" width="90%"}
-<div class="make_space_10"></div>
-<span class="badge bg-primary" style="font-size: 1.3vw">Position Vacant</span>
-<div class="make_space_10"></div>
-Rāpoi - Research Computing Specialist 
-:::
+
 :::{.g-col-2}
 ![ ](images/com-Wanting-Jiao.jpg){fig-align="center" width="90%"}
 <div class="make_space_10"></div>
 <span class="badge bg-primary" style="font-size: 1.3vw">Wanting Jiao</span>
 <div class="make_space_10"></div>
 Scientist in the Ferrier Research Institute              
+:::
+::: {.g-col-2}
+![ ](images/com-Muhammad-Hashmi.jpg){fig-align="center" width="90%"}
+<div class="make_space_10"></div>
+<span class="badge bg-primary" style="font-size: 1.3vw">Muhammad Hashmi</span>
+<div class="make_space_10"></div>
+Rāpoi - Research Computing Specialist 
 :::
 ::: {.g-col-1}
 :::
@@ -117,7 +118,7 @@ Systems Administrator, Digital Solutions
 ::: {.g-col-2}
 ![ ](images/com-Muhammad-Hashmi.jpg){fig-align="center" width="90%"}
 <div class="make_space_10"></div>
-<span class="badge bg-primary" style="font-size: 1.3vw">Muhammad Ali Hashmi</span>
+<span class="badge bg-primary" style="font-size: 1.3vw">Muhammad Hashmi</span>
 <div class="make_space_10"></div>
 Research Fellow in the School of Chemical and Physical Sciences
 
