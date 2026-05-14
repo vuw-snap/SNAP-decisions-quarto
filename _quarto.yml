@@ -14,7 +14,7 @@ project:
 website:
   title: snap-decisions
   back-to-top-navigation: true
-  page-footer: "© 2025 SNAP. Licensed under CC BY NC ND 4.0" 
+  page-footer: "© 2026 SNAP. Licensed under CC BY NC ND 4.0" 
 
   navbar:
     background: dark    
@@ -31,6 +31,8 @@ website:
         file: blog.qmd
       - text: Upcoming Events
         file: upcoming-events.qmd
+      - text: Newsletters
+        file: newsletters.qmd
       - text: "Contact Us"
         file: contacts.qmd
 #      - text: SNAP-related-jobs
@@ -55,10 +57,12 @@ website:
           file: index.qmd
         - text: About us
           file: about-us.qmd
-        - text: Upcoming Events
-          file: upcoming-events.qmd
         - text: Blog
           file: blog.qmd
+        - text: Upcoming Events
+          file: upcoming-events.qmd
+        - text: Newsletters
+          file: newsletters.qmd
         - text: Contact us
           file: contacts.qmd
 #        - text: Jobs

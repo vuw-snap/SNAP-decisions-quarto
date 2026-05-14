@@ -35,14 +35,14 @@ Professor in the School of Chemical and Physical Sciences
 <div class="make_space_10"></div>
 <span class="badge bg-primary" style="font-size: 1.3vw">Brendan Harding</span>
 <div class="make_space_10"></div>
-Lecturer in the Scool of Computational Mathematics and Statistics
+Senior Lecturer in the School of Computational Mathematics and Statistics
 :::
 ::: {.g-col-2}
 ![ ](images/com-Liz-Keller.jpg){fig-align="center" width="90%"}
 <div class="make_space_10"></div>
 <span class="badge bg-primary" style="font-size: 1.3vw">Liz Keller</span>
 <div class="make_space_10"></div>
-Research Fellow in the Antarctic Research Centre
+Senior Research Fellow in the Antarctic Research Centre / Senior Data Scientist in Earth Sciences NZ
 :::
 
 :::{.g-col-2}
@@ -50,7 +50,7 @@ Research Fellow in the Antarctic Research Centre
 <div class="make_space_10"></div>
 <span class="badge bg-primary" style="font-size: 1.3vw">Wanting Jiao</span>
 <div class="make_space_10"></div>
-Scientist in the Ferrier Research Institute              
+Senior Scientist in the Ferrier Research Institute              
 :::
 ::: {.g-col-2}
 ![ ](images/com-Muhammad-Hashmi.jpg){fig-align="center" width="90%"}
@@ -73,14 +73,14 @@ Rāpoi - Research Computing Specialist
 <div class="make_space_10"></div>
 <span class="badge bg-primary" style="font-size: 1.3vw">Yvette Perrott</span>
 <div class="make_space_10"></div>
-Lecturer in Astrophysics in the School of Chemical and Physical Sciences
+Senior Lecturer in Astrophysics in the School of Chemical and Physical Sciences
 :::
 :::{.g-col-2}
 ![ ](images/com-Anne_Haase.jpg){fig-align="center" width="90%"}
 <div class="make_space_10"></div>
 <span class="badge bg-primary" style="font-size: 1.3vw">Anne Haase</span>
 <div class="make_space_10"></div>
-Head of School in the School of Health
+Associate Professor in the School of Health
 :::
 :::{.g-col-2}
 ![ ](images/com-Stephen-Skalicky.jpg){fig-align="center" width="90%"}
@@ -101,7 +101,7 @@ Lecturer in Artificial Intelligence in the School of Engineering and Computer Sc
 <div class="make_space_10"></div>
 <span class="badge bg-primary" style="font-size: 1.3vw">David Alderman</span>
 <div class="make_space_10"></div>
-Systems Administrator, Digital Solutions 
+Senior Systems Administrator, Digital Solutions 
 :::
 ::: {.g-col-3}
 :::
@@ -164,7 +164,7 @@ PhD Candidate in the School of Chemical and Physical Sciences
 <span class="badge bg-primary" style="font-size: 1.3vw">Markus <br> Luczak-Roesch</span>
 <div class="make_space_10"></div>
 Markus Luczak-Roesch
-Associate Professor within the School of Information Management 
+Professor in the School of Information Management 
 :::
 :::{.g-col-2}
 ![ ](images/com-Konstantina-Vasileva.jpg){fig-align="center" width="90%"}

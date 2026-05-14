@@ -1,0 +1,33 @@
+---
+title: "SNAP Newsletters"
+background: light
+page-layout: full
+title-block-banner: "#28553A"
+title-block-banner-color: white
+
+format:
+  html:
+    theme: spacelab
+    css: styles.css
+
+#listing:
+#  type: grid
+#  contents: events 
+#  sort: "date desc"
+#  sort-ui: false
+#  filter-ui: false
+  
+---
+<style>
+.quarto-title-block .quarto-title-banner {
+  padding-bottom: 24px; # padding adjustment so logo is not cut-off
+}
+</style>
+
+<h1>SNAP Newsletter May 2026</h1>
+
+SNAP newsletter for May 2026 can be found [here](newsletters/Newsletter_May_2026.pdf).
+
+<h1>SNAP Newsletter August 2025</h1>
+
+SNAP newsletter for August 2025 can be found [here](newsletters/Newsletter_August2025.pdf).
