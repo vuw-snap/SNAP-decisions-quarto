@@ -21,7 +21,7 @@ By the end of the session, participants had gained hands-on experience with tool
 
 
 
-<!-- ![](image.jpg){height=500 fig-align="center"} -->
+![](schrodinger_photo.jpg){height=500 fig-align="center"}
 
 
 
