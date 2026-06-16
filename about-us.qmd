@@ -157,7 +157,6 @@ PhD Candidate in the School of Chemical and Physical Sciences
 <div class="make_space_10"></div>
 <span class="badge bg-primary" style="font-size: 1.3vw">Markus <br> Luczak-Roesch</span>
 <div class="make_space_10"></div>
-Markus Luczak-Roesch
 Professor in the School of Information Management 
 :::
 :::{.g-col-2}
