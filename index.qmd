@@ -18,13 +18,13 @@ listing:
     max-items: 3
     filter-ui: false
     sort-ui: false
-  - id: upcoming-events-list
-    contents: events
-    type: grid
-    sort: "date desc"
-    max-items: 3
-    filter-ui: false
-    sort-ui: false
+#  - id: upcoming-events-list
+#    contents: events
+#    type: grid
+#    sort: "date desc"
+#    max-items: 3
+#    filter-ui: false
+#    sort-ui: false
 ---
 
 ::: {.row}
@@ -52,10 +52,6 @@ SNAP has been set-up to connect, support and enable researchers across diverse d
 :::
 :::
 
-#### Check our [Upcoming Events](upcoming-events.html) for the upcoming workshops.
-
-::: {#upcoming-events-list}
-:::
 
 ---
 

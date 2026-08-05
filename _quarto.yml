@@ -29,8 +29,8 @@ website:
         file: about-us.qmd
       - text: Blog
         file: blog.qmd
-      - text: Upcoming Events
-        file: upcoming-events.qmd
+      #- text: Upcoming Events
+      #  file: upcoming-events.qmd
       - text: Newsletters
         file: newsletters.qmd
       - text: "Contact Us"
@@ -59,8 +59,8 @@ website:
           file: about-us.qmd
         - text: Blog
           file: blog.qmd
-        - text: Upcoming Events
-          file: upcoming-events.qmd
+        #- text: Upcoming Events
+        #  file: upcoming-events.qmd
         - text: Newsletters
           file: newsletters.qmd
         - text: Contact us
