@@ -110,11 +110,11 @@ Senior Systems Administrator, Digital Solutions
 :::
 
 ::: {.g-col-2}
-![ ](images/com-Muhammad-Hashmi.jpg){fig-align="center" width="90%"}
+![ ](images/placeholder.jpg){fig-align="center" width="90%"}
 <div class="make_space_10"></div>
-<span class="badge bg-primary" style="font-size: 1.3vw">Muhammad Hashmi</span>
+<span class="badge bg-primary" style="font-size: 1.3vw">Position Vacant</span>
 <div class="make_space_10"></div>
-Research Fellow in the School of Chemical and Physical Sciences
+Position Vacant
 
 :::
 
@@ -141,6 +141,29 @@ PhD Candidate in the School of Chemical and Physical Sciences
 <span class="badge bg-primary" style="font-size: 1.3vw">Qurat Ul Ain</span>
 <div class="make_space_10"></div>
 PhD Candidate in the School of Chemical and Physical Sciences
+:::
+
+:::
+
+<h2>Student Volunteers</h2>
+
+::: {.grid}
+
+::: {.g-col-1}
+:::
+
+::: {.g-col-2}
+<div class="make_space_10"></div>
+<span class="badge bg-primary" style="font-size: 1.3vw">Alexa Lee</span>
+<div class="make_space_10"></div>
+BS Hons. (Physics)
+:::
+
+::: {.g-col-2}
+<div class="make_space_10"></div>
+<span class="badge bg-primary" style="font-size: 1.3vw">Serene Wong</span>
+<div class="make_space_10"></div>
+BS Hons. (Data Science and Mathematics)
 :::
 
 :::
