@@ -90,32 +90,7 @@ Associate Professor in the School of Health
 <div class="make_space_10"></div>
 Lecturer in Artificial Intelligence in the School of Engineering and Computer Science
 :::
-:::{.g-col-2}
-![ ](images/com-David-Alderman.jpg){fig-align="center" width="90%"}
-<div class="make_space_10"></div>
-<span class="badge bg-primary" style="font-size: 1.3vw">David Alderman</span>
-<div class="make_space_10"></div>
-Senior Systems Administrator, Digital Solutions 
-:::
-::: {.g-col-3}
-:::
-
-:::
-
-<h2>PostDoc Representatives</h2>
-
-::: {.grid}
-
-::: {.g-col-1}
-:::
-
-::: {.g-col-2}
-![ ](images/placeholder.jpg){fig-align="center" width="90%"}
-<div class="make_space_10"></div>
-<span class="badge bg-primary" style="font-size: 1.3vw">Position Vacant</span>
-<div class="make_space_10"></div>
-Position Vacant
-
+::: {.g-col-5}
 :::
 
 :::
@@ -131,14 +106,6 @@ Position Vacant
 ![ ](images/com-Angela-Xue.jpg){fig-align="center" width="90%"}
 <div class="make_space_10"></div>
 <span class="badge bg-primary" style="font-size: 1.3vw">Angela Xue</span>
-<div class="make_space_10"></div>
-PhD Candidate in the School of Chemical and Physical Sciences
-:::
-
-::: {.g-col-2}
-![ ](images/com-qurat_ua_ain.jpg){fig-align="center" width="90%"}
-<div class="make_space_10"></div>
-<span class="badge bg-primary" style="font-size: 1.3vw">Qurat Ul Ain</span>
 <div class="make_space_10"></div>
 PhD Candidate in the School of Chemical and Physical Sciences
 :::
@@ -210,8 +177,42 @@ Senior Research Partner in the Research Office
 <div class="make_space_10"></div>
 Senior Lecturer in the School of Linguistics and Applied Language Studies 
 :::
-::: {.g-col-3}
+::: {.g-col-1}
 :::
 
 :::
 
+:::{.grid}
+
+::: {.g-col-1}
+:::
+
+:::{.g-col-2}
+![ ](images/com-David-Alderman.jpg){fig-align="center" width="90%"}
+<div class="make_space_10"></div>
+<span class="badge bg-primary" style="font-size: 1.3vw">David Alderman</span>
+<div class="make_space_10"></div>
+Technical Specialist, Digital Solutions 
+:::
+
+::: {.g-col-9}
+:::
+
+:::
+
+<h2>Past Student Volunteers</h2>
+
+::: {.grid}
+
+::: {.g-col-1}
+:::
+
+::: {.g-col-2}
+![ ](images/com-qurat_ua_ain.jpg){fig-align="center" width="90%"}
+<div class="make_space_10"></div>
+<span class="badge bg-primary" style="font-size: 1.3vw">Qurat Ul Ain</span>
+<div class="make_space_10"></div>
+PhD Candidate in the School of Chemical and Physical Sciences
+:::
+
+:::

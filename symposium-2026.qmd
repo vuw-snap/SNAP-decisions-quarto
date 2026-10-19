@@ -49,7 +49,7 @@ The VUW Hub for Simulation, Numerical Methods, Analytics and Programming (SNAP) 
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .p-3}
 ### Important Deadlines
-- **Abstract Submission Deadline:** **30 October 2026** *(oral presentation expressions of interest)*
+- **Abstract Submission Deadline:** **30 September 2026** *(oral presentation expressions of interest)*
 - **Registration Deadline:** **30 October 2026**
 - **Registration Link:** [Online Registration Form](https://forms.cloud.microsoft/r/1TL4esBqYw)
 :::
@@ -69,12 +69,12 @@ Presentations should highlight research that has benefited from modelling or sof
 
 ## Confirmed Invited Speakers
 
-- **Tulasi Parashar**, School of Chemical and Physical Sciences
-- **Stephen Skalicky**, School of Linguistics and Applied Language Studies
-- **Marcus Frean**, School of Engineering and Computer Science
-- **Alanna Alevropoulos-Borrill**, Antarctic Research Centre
-- **Konstantina Vasileva**, Research Office
-- **David Roberts**, Digital Solutions
+- **Tulasi Parashar**, School of Chemical and Physical Sciences — *TBC*
+- **Stephen Skalicky**, School of Linguistics and Applied Language Studies — *What can LLMs bring to the debate about literal and figurative meaning?*
+- **Marcus Frean**, School of Engineering and Computer Science — *Healthy tissue as an associative memory*
+- **Alanna Alevropoulos-Borrill**, Antarctic Research Centre — *TBC*
+- **Adam Crisp**, Research Office — *AI assisted App build to remove repetitive tasks, and capturing Agentic involvement as part of the Agent*
+- **David Roberts**, Digital Solutions — *TBC*
 
 ## Tentative Programme
 
@@ -92,7 +92,6 @@ Presentations should highlight research that has benefited from modelling or sof
 
 Please complete the online registration form by **30 October 2026**. 
 
-If you would like to give an oral presentation, submit your talk title and abstract by **30 October 2026**. This deadline applies only to presentation expressions of interest. We will contact prospective presenters after submissions have been reviewed.
 
 ::: {.callout-tip}
 ### Registration Link
