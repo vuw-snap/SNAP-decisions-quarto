@@ -1,0 +1,114 @@
+---
+title: "SNAP 2026 Symposium"
+subtitle: "9 November 2026 • Kelburn Campus"
+page-layout: full
+title-block-banner: "#28553A"
+title-block-banner-color: white
+
+format:
+  html:
+    theme: spacelab
+    css: styles.css
+---
+
+<style>
+.quarto-title-block .quarto-title-banner {
+  padding-bottom: 24px;
+}
+.symposium-btn {
+  font-size: 1.15rem;
+  padding: 10px 28px;
+  border-radius: 6px;
+}
+</style>
+
+The VUW Hub for Simulation, Numerical Methods, Analytics and Programming (SNAP) invites you to attend the **SNAP 2026 Symposium**.
+
+::: {.text-center .my-4}
+<a href="https://forms.cloud.microsoft/r/1TL4esBqYw" class="btn btn-success symposium-btn" target="_blank" role="button">
+  <strong>Register for the Symposium</strong>
+</a>
+:::
+
+---
+
+## Event Details
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .p-3}
+### When & Where
+- **Date:** Monday, 9 November 2026
+- **Time:** 10:00 am – 4:00 pm
+- **Location:** Room CO119, Kelburn campus
+- **Cost:** **Free!** Bring/buy your own lunch to eat together in the Hub.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .p-3}
+### Important Deadlines
+- **Abstract Submission Deadline:** **30 October 2026** *(oral presentation expressions of interest)*
+- **Registration Deadline:** **30 October 2026**
+- **Registration Link:** [Online Registration Form](https://forms.cloud.microsoft/r/1TL4esBqYw)
+:::
+:::
+
+:::
+
+## Purpose
+
+The symposium will bring our community together, spark interdisciplinary dialogue, and highlight software and modelling tools that may be useful across multiple disciplines.
+
+## Who Can Attend
+
+Academic staff, research staff, professional staff, postdoctoral researchers, and postgraduate students are welcome. 
+
+Presentations should highlight research that has benefited from modelling or software tools and may inspire or assist people in other disciplines.
+
+## Confirmed Invited Speakers
+
+- **Tulasi Parashar**, School of Chemical and Physical Sciences
+- **Stephen Skalicky**, School of Linguistics and Applied Language Studies
+- **Marcus Frean**, School of Engineering and Computer Science
+- **Alanna Alevropoulos-Borrill**, Antarctic Research Centre
+- **Konstantina Vasileva**, Research Office
+- **David Roberts**, Digital Solutions
+
+## Tentative Programme
+
+| Time | Session |
+|:---|:---|
+| **10:00 – 10:30** | Introductions and welcome |
+| **10:30 – 11:30** | Invited talks, session 1 |
+| **11:30 – 12:00** | Rāpoi updates |
+| **12:00 – 13:30** | Lunch and networking *(Free! Bring/buy your own lunch to eat together in the Hub)* |
+| **13:30 – 14:30** | Invited talks, session 2 |
+| **14:30 – 15:30** | Selected talks from submitted abstracts |
+| **15:30 – 16:00** | General discussion and feedback |
+
+## Registration and Presentations
+
+Please complete the online registration form by **30 October 2026**. 
+
+If you would like to give an oral presentation, submit your talk title and abstract by **30 October 2026**. This deadline applies only to presentation expressions of interest. We will contact prospective presenters after submissions have been reviewed.
+
+::: {.callout-tip}
+### Registration Link
+Click below to access the Microsoft Form:  
+[https://forms.cloud.microsoft/r/1TL4esBqYw](https://forms.cloud.microsoft/r/1TL4esBqYw)
+:::
+
+::: {.text-center .my-4}
+<a href="https://forms.cloud.microsoft/r/1TL4esBqYw" class="btn btn-success symposium-btn" target="_blank" role="button">
+  <strong>Register Now</strong>
+</a>
+:::
+
+## Contact
+
+For any questions or further information regarding the symposium, please contact:
+
+- **Wanting Jiao:** [wanting.jiao@vuw.ac.nz](mailto:wanting.jiao@vuw.ac.nz)
+- **SNAP:** [snap@vuw.ac.nz](mailto:snap@vuw.ac.nz)

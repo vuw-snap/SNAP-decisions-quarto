@@ -29,6 +29,8 @@ website:
         file: about-us.qmd
       - text: Blog
         file: blog.qmd
+      - text: "SNAP 2026 Symposium"
+        file: symposium-2026.qmd
       #- text: Upcoming Events
       #  file: upcoming-events.qmd
       - text: Newsletters
@@ -59,6 +61,8 @@ website:
           file: about-us.qmd
         - text: Blog
           file: blog.qmd
+        - text: "SNAP 2026 Symposium"
+          file: symposium-2026.qmd
         #- text: Upcoming Events
         #  file: upcoming-events.qmd
         - text: Newsletters
