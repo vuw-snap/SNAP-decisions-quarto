@@ -69,29 +69,35 @@ Presentations should highlight research that has benefited from modelling or sof
 
 ## Confirmed Invited Speakers
 
-- **Tulasi Parashar**, School of Chemical and Physical Sciences — *TBC*
+- **Tulasi Parashar**, School of Chemical and Physical Sciences — *How not to use HPC*
 - **Stephen Skalicky**, School of Linguistics and Applied Language Studies — *What can LLMs bring to the debate about literal and figurative meaning?*
 - **Marcus Frean**, School of Engineering and Computer Science — *Healthy tissue as an associative memory*
-- **Alanna Alevropoulos-Borrill**, Antarctic Research Centre — *TBC*
-- **Adam Crisp**, Research Office — *AI assisted App build to remove repetitive tasks, and capturing Agentic involvement as part of the Agent*
-- **David Roberts**, Digital Solutions — *TBC*
+- **Alanna Alevropoulos-Borrill**, Antarctic Research Centre — *From Ice Sheets to Global Climate: Understanding Change in Antarctica with Numerical Models*
+- **Adam Crisp**, Research Office — *AI assisted App build to remove repetitive tasks*
+- **David Roberts**, Digital Solutions — *From Idea to Insight – using Copilot in your research project*
 
-## Tentative Programme
+## Program
 
-| Time | Session |
-|:---|:---|
-| **10:00 – 10:30** | Introductions and welcome |
-| **10:30 – 11:30** | Invited talks, session 1 |
-| **11:30 – 12:00** | Rāpoi updates |
-| **12:00 – 13:30** | Lunch and networking *(Free! Bring/buy your own lunch to eat together in the Hub)* |
-| **13:30 – 14:30** | Invited talks, session 2 |
-| **14:30 – 15:30** | Selected talks from submitted abstracts |
-| **15:30 – 16:00** | General discussion and feedback |
+| Time | Session / Talk | Speaker(s) |
+|:---|:---|:---|
+| **10:00 – 10:15** | Welcome and introductions to SNAP | Patricia Hunt |
+| **10:15 – 11:10** | Rāpoi and REANNZ updates | Muhammad Hashmi, Patricia Hunt, Ash McPherson |
+| **11:10 – 11:35** | *From Idea to Insight – using Copilot in your research project* | David Roberts (Digital Solutions) |
+| **11:35 – 12:00** | *AI assisted App build to remove repetitive tasks* | Adam Crisp (Research Office) |
+| **12:00 – 12:15** | **Abstract talk #1:** *Reconstructing the representational geometry of perception from behaviour* | Angus Chapman (School of Psychological Sciences) |
+| **12:15 – 12:30** | **Abstract talk #2:** *Keeping Score: Explorations the Strategy Space in Donation Games with Score-based Reputation Systems* | Brandon Loh (School of Engineering and Computer Science) |
+| **12:30 – 13:30** | **Lunch and Networking** | *(Bring/buy your own lunch to eat together in the Hub)* |
+| **13:30 – 13:55** | *What can LLMs bring to the debate about literal and figurative meaning?* | Stephen Skalicky (School of Linguistics and Applied Language Studies) |
+| **13:55 – 14:20** | *Healthy tissue as an associative memory* | Marcus Frean (School of Engineering and Computer Science) |
+| **14:20 – 14:45** | *How not to use HPC* | Tulasi Parashar (School of Chemical and Physical Sciences) |
+| **14:45 – 15:10** | *From Ice Sheets to Global Climate: Understanding Change in Antarctica with Numerical Models* | Alanna Alevropoulos-Borrill (Antarctic Research Centre) |
+| **15:10 – 15:25** | **Abstract talk #3:** *Can We Spot Stressed Vegetation from Space? A Showcase of Python Software for Estimating Vegetation Properties from Remote Sensing Data* | Viktor Ixion Mészáros (School of Mathematics & Statistics) |
+| **15:25 – 15:40** | **Abstract talk #4:** *Three-dimensional flow and particle motion in a channel–cavity microfluidic device* | Zeinab Rahnama (School of Mathematics & Statistics) |
+| **15:40 – 16:00** | General discussions and closing remarks | Patricia Hunt |
 
 ## Registration and Presentations
 
 Please complete the online registration form by **30 October 2026**. 
-
 
 ::: {.callout-tip}
 ### Registration Link
